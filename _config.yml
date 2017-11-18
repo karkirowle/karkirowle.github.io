@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Bence Halpern"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "example biography"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "fcom"
   email            :
   uri              :
   bitbucket        :
