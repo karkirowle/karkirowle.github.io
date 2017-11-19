@@ -1,6 +1,6 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /links/
+title: "Interesting links"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
