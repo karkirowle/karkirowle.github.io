@@ -10,14 +10,22 @@ redirect_from:
 
 Hello!
 
-This my webpage where hopefully I can present useful materials, research which either I think is interesting or it is made by me.
+This my academic webpage where present materials, research which either I think is interesting or it is made by me.
+
 
 Background
 ======
 
-I started my undergraduate studies at Imperial College London in 2014 on the Biomedical Engineering Course. My aim was to learn more about how advanced technology applied to biological scenarios can help people. During my undergraduate studies, I took part of several projects which were highly inter-disciplinary including creating an electrical feedback system for visually impaired swimmers or creating a CT filter for 3D reconstruction of skeletons.
+I started my undergraduate studies at Imperial College London in 2014 on the Biomedical Engineering Course. My aim was to learn more about how advanced technology applied to biological scenarios can help people. During my undergraduate studies, I took part of several projects which were highly interdisciplinary including creating an electrical feedback system for visually impaired swimmers or creating a CT filter for 3D reconstruction of skeletons.
 
 My interests shifted to computational biology and artificial intelligence gradually during this course. Unconsciously I’ve chosen courses which were more computational and during all of my project roles I was responsible for programming rather than laboratory work. The great change came during my summer internship at a fashion technology company where I really liked both the challenges and the atmosphere, so since then I'm consciously spending more time with machine learning.
 
-I’m currently working on improving a system identification algorithm for genetic regulatory networks based on the previous work of Dr. Wei Pan and under the supervision of Dr. Guy-Bart Stan. I see this now as an excellent opportunity to immerse myself with the machine learning literature and I find this project intellectually stimulating.
+Current work
+======
+
+Currently I'm doing my PhD at the Netherlands Cancer Institute as an external student of the University of Amsterdam. I'm working on pathological speech synthesis in order to help clinical decisions here in the Antoni van Leeuwenhoek hospital for oral cancer patients.
+
+Publications
+======
+I’ve worked on improving a system identification algorithm for genetic regulatory networks under the supervision of Dr. Guy-Bart Stan, Dr. Wei Pan and Dr. Zoltan Tuza. It was an excellent opportunity to learn more about Bayesian Linear Regression techniques and it's application to gene regulatory network identification.
 
