@@ -19,7 +19,7 @@ Speech File 1
 3
 
 Speech file | Original | Pathological  
---- | --- | ---
-1 | [play](http://karkirowle.github.io/paper1/speech/10_p.wav) | $1600 
-2 | centered      | 1
-3 | are neat      | 1
+--- | --- | ---i
+1 | [Play](http://karkirowle.github.io/paper1/speech/10_rs.wav) | [Play](http://karkirowle.github.io/paper1/10_p.wav)
+2 | [Play](http://karkirowle.github.io/paper1/speech/18_rs.wav) | [Play](http://karkirowle.github.io/paper1/18_p.wav)
+3 | [Play](http://karkirowle.github.io/paper1/speech/30_rs.wav) | [Play](http://karkirowle.github.io/paper1/30_p.wav)
