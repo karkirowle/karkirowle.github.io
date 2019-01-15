@@ -2,3 +2,6 @@
 main:
   - title: "Interesting links"
     url: /links/
+  - title: "Pathological speech"
+    url: /paper1/
+  

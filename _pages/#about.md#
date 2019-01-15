@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "Bence Halpern"
 excerpt: "About me"
@@ -28,4 +28,5 @@ Currently I'm doing my PhD at the Netherlands Cancer Institute as an external st
 Publications
 ======
 I’ve worked on improving a system identification algorithm for genetic regulatory networks under the supervision of Dr. Guy-Bart Stan, Dr. Wei Pan and Dr. Zoltan Tuza. It was an excellent opportunity to learn more about Bayesian Linear Regression techniques and it's application to gene regulatory network identification.
+
 [Thesis](https://github.com/karkirowle/sysidProject/blob/master/VanillaID/thesis/Thesis_Halpern_2018_v3.pdf)
