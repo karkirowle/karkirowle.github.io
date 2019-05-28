@@ -1,5 +1,5 @@
 ﻿---
-permalink: /
+permalink: /example/
 title: "Bence Halpern"
 excerpt: "Example"
 author_profile: false
