@@ -18,9 +18,16 @@ The aim of this article are the following:
 - build intuition on what importance sampling is,
 - descibe how IWAE builds on both to alleviate limitations of VAE.
 
+Revisiting the variational autoencoders
+---
+
+Variational autoencoders are a type of neural networks which compresse
+the distribution of $ p(x) $ into a lower dimensional distribution $ p(z) $.
+
 Neural network compresses the data to a lower dimensional probability
 density function in order to learn about structure.
 
+![alt text](vae-gaussian.png "Logo Title Text 1")
 Latent space is penalised by KL to have a form specified by or prior
 (usually N (0, 1))
 
