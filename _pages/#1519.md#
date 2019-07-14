@@ -1,0 +1,27 @@
+---
+permalink: /importance_weighted_autoencoders/
+title: "Importance weighted autoencoders"
+excerpt: "Importance weighted autoencoders"
+author_profile: true
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
+---
+
+
+If you are already familiar with variational autoencoders, and if you
+are fascinated by the results of variational inference, then importance
+weighted autoencoders (IWAE) might just go one step higher - by rethinking
+what the evidence lower bound really is.
+
+
+Variational autoencoder view
+======
+
+While many of us use variational autoencoders, not all of use are clear
+on the basic concepts of the Variational Bayes method, so it is worth
+revisiting the optimisation of the variational autoencoder from that
+perspective.
+
+The problem of autoencoders mathematically is learning an encoder and decoder
+which compresses $ x $ into a latent representation $ z $.
