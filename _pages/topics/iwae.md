@@ -11,11 +11,12 @@ redirect_from:
 
 
 
-The aim of this talk is the following:
-revisit VAE,
-obtain a probabilistic understanding of VAEs (“Bayesian”),
-build intuition on what importance sampling is,
-descibe how IWAE builds on both to alleviate limitations of VAE.
+The aim of this article are the following:
+
+- revisit VAE,
+- obtain a probabilistic understanding of VAEs (“Bayesian”),
+- build intuition on what importance sampling is,
+- descibe how IWAE builds on both to alleviate limitations of VAE.
 
 Neural network compresses the data to a lower dimensional probability
 density function in order to learn about structure.
