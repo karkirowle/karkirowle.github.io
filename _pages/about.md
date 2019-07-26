@@ -13,9 +13,7 @@ Hello!
 This my academic webpage where present materials, research which either I think is interesting or it is made by me.
 
 
- <pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
+
 
 
 Background
