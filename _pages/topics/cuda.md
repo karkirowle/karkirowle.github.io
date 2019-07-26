@@ -17,8 +17,13 @@ things in this guide too, which is meant partly as a criticism of design decisio
 
 1. The compatibility problem
 
+There is no such thing as an official Tensowflow compatibility chart, or at least not something that is easy to do find with
+my skills of Google, so it is probably going to cause some difficulties to laymen installing Tensorflow.
+The closest I found is this one https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
+
  <pre><code class="language-mermaid">graph LR
-OS--&gt;B--&gt;C
+OS--&gt;B
+B--&gt;C
 </code></pre>
 
 
