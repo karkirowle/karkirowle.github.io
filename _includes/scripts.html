@@ -1,4 +1,15 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
-
+<script>
+var config = {
+    startOnLoad:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
