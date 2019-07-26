@@ -17,6 +17,9 @@ A--&gt;B
 </div>
 
 
+ <pre><code class="language-mermaid">graph LR
+A--&gt;B
+</code></pre>
 
 
 Background
