@@ -49,6 +49,8 @@ The key to a good tensorflow installation is also rigour and testing. Every step
 * Python can be tested with ```python --version```
 * Tensorflow is the most difficult test, because even if the GPU is detected, it might just randomly fail at all sorts of places. 
 
+In terms of the operating system, Ubuntu will be better supported, but CUDA installation on Windows is a significantly better experience in my opinion.
+
 ## My favourite bugs
 
 ### Forgetting to add CUDA as environment variable
