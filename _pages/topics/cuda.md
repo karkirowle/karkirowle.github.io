@@ -1,7 +1,7 @@
 ---
 permalink: /tf_install/
-title: "Importance weighted autoencoders"
-excerpt: "Importance weighted autoencoders"
+title: "Ultime tensorflow install guide"
+excerpt: "Ultimate tensorflow install guide"
 author_profile: true
 redirect_from: 
   - "/nmp/"
@@ -22,8 +22,11 @@ my skills of Google, so it is probably going to cause some difficulties to layme
 The closest I found is this one https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
 
  <pre><code class="language-mermaid">graph LR
-OS--&gt;B
-B--&gt;C
+OS--&gt;Video card
+Video card--&gt;C compiler
+C compiler--&gt;CUDA
+CUDA--&gt;cuDNN
+cuDNN--&gt;Tensorflow
 </code></pre>
 
 
