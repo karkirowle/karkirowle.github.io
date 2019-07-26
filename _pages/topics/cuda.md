@@ -55,3 +55,15 @@ In terms of the operating system, Ubuntu will be better supported, but CUDA inst
 
 ### Forgetting to add CUDA as environment variable
 
+### Overwriting the video card driver
+
+This is the most amusing! While every GPU will require its own driver and NVIDIA knows that, the Ubuntu installation script will relentlessly try to update the
+driver itself
+
+### Dual video card problems
+
+```
+sudo apt-get purge libvdpau-va-gl1 bumblebee* nvidia*
+# Driver
+sudo apt-get install nvidia-384 nvidia-settings nvidia-prime
+```
