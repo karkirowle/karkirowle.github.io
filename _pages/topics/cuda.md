@@ -16,7 +16,7 @@ not a comprehensive guide, but simply is made by myself out of pure interest. I 
 things in this guide too, which is meant partly as a criticism of design decisions, common sources of errors.
 
 1. The compatibility problem
- <pre><code class="language-mermaid">
+ <pre><code class="language-mermaid">graph LR
 Video card--&gt;OS--&gt;CUDA-&gt;cuDNN-&gt;Tensorflow
 </code></pre>
 
