@@ -18,7 +18,7 @@ things in this guide too, which is meant partly as a criticism of design decisio
 1. The compatibility problem
 
  <pre><code class="language-mermaid">graph LR
-A--&gt;B
+OS--&gt;B--&gt;C
 </code></pre>
 
 
