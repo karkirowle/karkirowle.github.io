@@ -44,9 +44,9 @@ Thus, I would advise the following. Determine the CUDA compute capability versio
 
 The key to a good tensorflow installation is also rigour and testing. Every step if your installation can be tested.
 
-* The compiler can be tested usually with gcc --version
-* nvcc can be tested with nvcc --version and building the deviceQuery file
-* Python can be tested with python --version
+* The compiler can be tested usually with ```gcc --version```
+* nvcc can be tested with ```nvcc --version``` and building the deviceQuery file
+* Python can be tested with ```python --version```
 * Tensorflow is the most difficult test, because even if the GPU is detected, it might just randomly fail at all sorts of places. 
 
 ## My favourite bugs
