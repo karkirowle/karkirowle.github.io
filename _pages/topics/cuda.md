@@ -22,9 +22,9 @@ my skills of Google, so it is probably going to cause some difficulties to layme
 The closest I found is this one https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
 
  <pre><code class="language-mermaid">graph LR
-OS--&gt;Video card
-Video card--&gt;C compiler
-C compiler--&gt;CUDA
+OS--&gt;GPU
+GPU--&gt;C
+C--&gt;CUDA
 CUDA--&gt;cuDNN
 cuDNN--&gt;Tensorflow
 </code></pre>
