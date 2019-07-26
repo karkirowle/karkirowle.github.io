@@ -12,10 +12,6 @@ Hello!
 
 This my academic webpage where present materials, research which either I think is interesting or it is made by me.
 
-<div class="mermaid">graph LR
-A--&gt;B
-</div>
-
 
  <pre><code class="language-mermaid">graph LR
 A--&gt;B
