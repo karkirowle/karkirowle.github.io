@@ -1,6 +1,6 @@
 ---
 permalink: /tf_install/
-title: "Ultimate tensorflow install guide"
+title: "Another one of those TensorFlow install Guide"
 excerpt: "Ultimate tensorflow install guide"
 author_profile: true
 redirect_from: 
@@ -17,16 +17,18 @@ things in this guide too, which is meant partly as a criticism of design decisio
 
 ## The compatibility problem
 
-There is no such thing as an official Tensowflow compatibility chart, or at least not something that is easy to do find with
-my skills of Google, so it is probably going to cause some difficulties to laymen installing Tensorflow.
-The closest I found is this one https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
-I will try to collect here all the important ones.
-
-But this is outright what causes the problem in most installations. Because you don't know what are the possible routes, you
+This is outright what causes the problem in most installations. Because you don't know what are the possible routes, you
 often go down a difficult route (build from source, works with downgraded versions) or even worse, an impossible route.
 
-TODO: Another compatibility chart
-https://docs.nvidia.com/deploy/cuda-compatibility/
+It really pays off trying to investigate whether your installation route will work
+painlessly with some compatibility charts.
+
+- This StackOverflow question offers one lovely chart, parts of it can also
+be found on [TF site](https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible)
+- The most limiting part in your TensorFlow installation will be actually
+your Cuda compute capability and the supperted driver version of your video card.
+That is effectively the only part which can be pushed with just investing more money.
+[Here is the compatibility table](https://docs.nvidia.com/deploy/cuda-compatibility/
 
 ## Layout of the installation
  <pre><code class="language-mermaid">graph LR
