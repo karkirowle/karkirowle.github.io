@@ -58,5 +58,5 @@ was definitely a refreshing experience.
 
 
 
-<img src="/images/IMG_0309.jpg" width="600"/>
+<img src="/images/eu_flag.jpeg"/>
 **This project has received funding from the European Union's Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287.**
