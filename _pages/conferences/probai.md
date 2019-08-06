@@ -7,8 +7,8 @@ author_profile: true
 
 ## Brief intro
 
-I attended a summer school about probabilistic machine learning in the
-first week of July this year in 2019. Probabilistic machine learning (sometimes
+I attended a (summer school)[https://probabilistic.ai/] about probabilistic machine learning in the
+first week of June this year in 2019. Probabilistic machine learning (sometimes
 Bayesian Machine Learning) is a discipline of machine learning where the
 uncertainty of a decision is also calculated. This is really interesting
 topic for many medical and other mission critical applied research now, as often a yes-or-no decision
@@ -20,7 +20,7 @@ Trondheim is absoutely stunning, but not cheap. If you are looking for
 some untouched nature or a retreat from your PhD life, I definitely
 recommend it, but be wary - apart from nature there is not too much to see!
 However, all the restaurants were top notch in Trondheim. I would definitely
-recommend Peppes Pizza if you are into greasy Domino's like Pizza.
+recommend (Peppes Pizza)[https://www.peppes.no/desktop/s/frontpage/?0&utm_source=google+my+business&utm_medium=organic&utm_content=trondheim] if you are into greasy Domino's like Pizza.
 
 
 <center>
@@ -42,8 +42,8 @@ distributions.
 
 I think it was a great practical look at Bayesian Machine Learning and
 Probabilistic Graphical models. It was refreshing to have a great review
-of the past fews machine learning literature, and I got confirmed that
-cycle consistent GANs are indeed becoming more than a niche ML research
+of the past few years machine learning literature, and I got confirmed that
+cycle-consistent GANs (and GANS in general) are indeed becoming more than a niche ML research
 area.
 
 The related coursework was one of the most rewarding assignments I have
