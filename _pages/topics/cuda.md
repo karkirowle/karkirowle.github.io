@@ -40,11 +40,6 @@ CUDA--&gt;cuDNN
 cuDNN--&gt;Tensorflow
 </code></pre>
 
-This is an outline of the most important steps of the installation you have to be aware of. In my experience the most limiting step
-will be nearly always your video card's CUDA compute capability. For example, under compute cability 5.0, most guides advise you to not even
-start and buy a better GPU, but it is a non-solution. Going down the beaten route will likely to cause some kind of weird bug in your installation,
-which you want to avoid.
-
 Thus, I would advise the following. Determine the CUDA compute capability version and work from backwards. 
 
 The key to a good tensorflow installation is also rigour and testing. Every step if your installation can be tested.
@@ -54,11 +49,12 @@ The key to a good tensorflow installation is also rigour and testing. Every step
 * Python can be tested with ```python --version```
 * Tensorflow is the most difficult test, because even if the GPU is detected, it might just randomly fail at all sorts of places. 
 
-In terms of the operating system, Ubuntu will be better supported, but CUDA installation on Windows is a significantly better experience in my opinion.
+In terms of the operating system, Ubuntu will be better supported, but the CUDA part of the
+installation on Windows is a significantly less bumpy journey in my experience.
 
 ## OS
 
-Tensorflow according to my knowledge only works on 64-bit architectures.
+TensorFlow according to my knowledge only works on 64-bit architectures.
 So if you have 32-bit install, you should toss it immediately, you don't
 want to realise that you have spent six hours installing something that
 is useless.
@@ -67,12 +63,15 @@ is useless.
 ## Headers
 
 
-Check the headers on Ubuntu using
+This is a commonly ommitted step from some installation guides, but it is
+actually quite helpful. Check the headers on Ubuntu using,
 
 ```
 uname -r
 
 ```
+
+If they are not installed, just do the following:
 
 ```
 sudo apt-get install linux-headers-$(uname -r)
@@ -83,11 +82,13 @@ sudo apt-get install linux-headers-$(uname -r)
 
 ## Compilers
 
-The standard compiler for Linux distros will be gcc, for Windows you
+The standard compiler for Linux distributions will be gcc, for Windows you
 typically never want to install only a compiler, rather you want to get
 the Visual C++ Studio Build tools.
 
-It is important in my experience to get the 2017 version. 
+It is important in my experience to get the 2017 version. For example,
+when you build from source, Bazel will use your compiler, and it might
+throw you errors if you are not using the right versions.
 
 
 ## cuDNN and CUDA failing on Linux
@@ -102,9 +103,9 @@ ImportError: libcudnn.Version: cannot open shared object file: No such file or d
 ```
 
 Yes, this indicates most of the time that you have installed the wrong
-version if you have a different number of cudnn. It is also possible that
-the terminal you are running from haven't load the environment variables yet.
-Typically, you should source them then.
+version if you have a different number of CuDNN. It is also possible that
+the terminal you are running from haven't loaded the environment variables yet.
+Typically, you should source them then using,
 
 ```
 source ~/.bashrc
@@ -116,6 +117,16 @@ Maybe it also good to check if the environment variables are right:
 echo LD_LIBRARY_PATH
 echo CUDA_HOME
 ```
+
+Several occasions you can find typos, so it just might be also doing
+something like, 
+
+```
+cd LD_LIBRARY_PATH
+cd CUDA_HOME
+```
+
+and checking there are no complaints.
 
 Related StackOverflow [issue](https://stackoverflow.com/questions/41991101/importerror-libcudnn-when-running-a-tensorflow-program)
 
@@ -131,7 +142,7 @@ pip install tensorflow-gpu
 That wiil identify which wheel is appropriate for your OS and python
 version if there is. If there is not, it will return an error message.
 
-If you need GPU acceleration, *never* do
+If you need GPU acceleration, *NEVER* do
 
 ```
 pip install tensorflow
@@ -141,7 +152,6 @@ If you are not lucky, then you need a different package, and there is
 little help on it, apart on the page https://www.tensorflow.org/install/pip
 
 The general command you will need is
-
 
 ```
 pip install https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.14.0-cp35-cp35m-linux_x86_64.whl
@@ -172,6 +182,7 @@ gets linked together.
 The build process itself can freeze your computer, because it is using
 a lot of RAM. The TensorFlow guide recommends the local ram resources flag in this
 case, like:
+
 ```
 -bazel build --local_ram_resources=2048 --config=opt --config=cuda //tensorflow/tools/pip_package:build_pip_package
 
@@ -191,8 +202,6 @@ to 1 in the command above.
 
 ## My favourite bugs
 
-### Forgetting to add CUDA as environment variable
-
 ### Overwriting the video card driver
 
 This is the most amusing part! While every GPU will require its own driver and NVIDIA knows that, the Ubuntu installation script will relentlessly try to update the
@@ -200,7 +209,10 @@ driver itself during the Ubuntu installation.
 
 ### Dual video card problems
 
-My
+There are very little resources on this actually, but my first Tensorflow
+installation had a dual Intel-Nvidia videocard in it, and it was awful to
+get it working. After I finally managed to do it, I recorded it for myself,
+and now I share, in hope that it helps a lot of people,
 
 ```
 sudo apt-get purge libvdpau-va-gl1 bumblebee* nvidia*
@@ -208,7 +220,8 @@ sudo apt-get purge libvdpau-va-gl1 bumblebee* nvidia*
 sudo apt-get install nvidia-384 nvidia-settings nvidia-prime
 ```
 
-### Windows environment variables
 
-They exist and can be reached from
-TODO:
+I hope you found some useful tips for yourself, and if there is something
+that is not in the official TensorFlow guide, or you think it is worth to share,
+do write me an e-mail and I will think about an appropriate way to include
+it in this article!
