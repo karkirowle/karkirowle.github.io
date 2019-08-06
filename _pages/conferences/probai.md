@@ -27,7 +27,7 @@ recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 <img src="/images/IMG_0309.jpg" width="600"/>
 
 
-## Lectures I liked the best
+## Lectures I liked the most
 
 The two talks that I definitely adored the most were the one about
 Importance Weighted Autoencoders and the one about Sparse Bayesian Neural
