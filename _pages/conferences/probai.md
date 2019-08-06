@@ -24,8 +24,8 @@ recommend (Peppes Pizza)[https://www.peppes.no/desktop/s/frontpage/?0&utm_source
 
 
 <center>
-<img src="/images/IMG_0309.jpg" width="600"/>
-<br><i>A bird's eye view of Trondheim*</i>
+<img src="/images/IMG_0309.jpg" width="700"/>
+<br><i>A bird's eye view of Trondheim</i>
 </center>
 
 ## Lectures I liked the most
