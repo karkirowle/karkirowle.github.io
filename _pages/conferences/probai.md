@@ -23,6 +23,7 @@ However, all the restaurants were top notch in Trondheim. I would definitely
 recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
 this is text
+![](/images/probai_1.jpeg)
 
 ## Lectures I liked the best
 
