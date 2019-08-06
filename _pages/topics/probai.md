@@ -14,6 +14,15 @@ uncertainty of a decision is also calculated. This is really interesting
 topic for many medical and other mission critical applied research now, as often a yes-or-no decision
 is not enough.
 
+## The venue
+
+Trondheim is absoutely stunning, but not cheap. If you are looking for
+some untouched nature or a retreat from your PhD life, I definitely
+recommend it, but be wary - apart from nature there is not too much to see!
+However, all the restaurants were top notch in Trondheim. I would definitely
+recommend Max's Pizza if you are into greasy Domino's like Pizza.
+
+![something](IMG_0301.jpg)
 ## Lectures I liked the best
 
 The two talks that I definitely adored the most were the one about
