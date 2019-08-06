@@ -23,7 +23,8 @@ However, all the restaurants were top notch in Trondheim. I would definitely
 recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
 <img src="https://github.com/karkirowle/karkirowle.github.io/blob/master/_pages/conferences/IMG_0309.jpg" width="200"/>
-![something]( https://github.com/karkirowle/karkirowle.github.io/blob/master/_pages/conferences/IMG_0309.jpg "comma thing")
+
+sajt 
 ## Lectures I liked the best
 
 The two talks that I definitely adored the most were the one about
