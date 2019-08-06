@@ -20,7 +20,8 @@ Trondheim is absoutely stunning, but not cheap. If you are looking for
 some untouched nature or a retreat from your PhD life, I definitely
 recommend it, but be wary - apart from nature there is not too much to see!
 However, all the restaurants were top notch in Trondheim. I would definitely
-recommend [Peppes Pizza](https://www.peppes.no/desktop/s/frontpage/?0&utm_source=google+my+business&utm_medium=organic&utm_content=trondheim)if you are into greasy Domino's like Pizza.
+recommend [Peppes Pizza](https://www.peppes.no/desktop/s/frontpage/?0&utm_source=google+my+business&utm_medium=organic&utm_content=trondheim)
+if you are into greasy Domino's like Pizza.
 
 
 <center>
@@ -57,6 +58,6 @@ was definitely a refreshing breakout from my PhD life.
 <center><i>As always, the best thing of summer schools is the ability to make new connections</i></center>
 
 
-
+<br>
 <img src="/images/eu_flag.jpeg"/>
 **This project has received funding from the European Union's Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287.**
