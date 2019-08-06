@@ -54,7 +54,7 @@ Depending on next year's topics I might consider attending again, but it
 was definitely a refreshing breakout from my PhD life.
 
 ![](/images/probai_1.jpeg)
-*As always, the best thing of summer schools is the ability to make new connections*
+<center><i>As always, the best thing of summer schools is the ability to make new connections</i></center>
 
 
 
