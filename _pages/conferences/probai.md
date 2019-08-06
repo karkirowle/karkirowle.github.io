@@ -23,9 +23,10 @@ However, all the restaurants were top notch in Trondheim. I would definitely
 recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
 
-
+<center>
 <img src="/images/IMG_0309.jpg" width="600"/>
-
+*A bird's eye view of Trondheim*
+</center>
 
 ## Lectures I liked the most
 
@@ -53,3 +54,4 @@ Depending on next year's topics I might consider attending again, but it
 was definitely a refreshing experience.
 
 ![](/images/probai_1.jpeg)
+*As always, the best thing of summer schools is the ability to make new connections*
