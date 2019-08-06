@@ -24,17 +24,17 @@ recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
 
 <center>
-<img src="/images/IMG_0309.jpg" width="650"/>
-<br><i>A bird's eye view of Trondheim</i>
+<img src="/images/IMG_0309.jpg" width="600"/>
+<br><i>A bird's eye view of Trondheim*</i>
 </center>
 
 ## Lectures I liked the most
 
 The two talks that I definitely adored the most were the one about
 Importance Weighted Autoencoders and the one about Sparse Bayesian Neural
-Networks. I have done by thesis about automatic relevance determination
-and I think it's one of the most appealing way to Bayesian for people
-who are looking for a principled framework on dealing with prior probability
+Networks. I have done my Master's thesis about automatic relevance determination,
+and I think it's one of the most appealing way to do Bayesian for people,
+who are looking for a principled framework, dealing with prior probability
 distributions.
 
 ## What I've learned
@@ -46,12 +46,12 @@ of the past fews machine learning literature, and I got confirmed that
 cycle consistent GANs are indeed becoming more than a niche ML research
 area.
 
-The related coursework as one of the most rewarding assignments I have
-ever done, because it really helps to bring together the theory and practice
-in your mind.
+The related coursework was one of the most rewarding assignments I have
+ever done, because it really helped me bring together the theory and practice
+in my mind.
 
 Depending on next year's topics I might consider attending again, but it
-was definitely a refreshing experience.
+was definitely a refreshing breakout from my PhD life.
 
 ![](/images/probai_1.jpeg)
 *As always, the best thing of summer schools is the ability to make new connections*
