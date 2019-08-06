@@ -28,7 +28,7 @@ be found on [TF site](https://stackoverflow.com/questions/50622525/which-tensorf
 - The most limiting part in your TensorFlow installation will be actually
 your Cuda compute capability and the supperted driver version of your video card.
 That is effectively the only part which can be pushed with just investing more money.
-[Here is the compatibility table](https://docs.nvidia.com/deploy/cuda-compatibility/
+[Here is the compatibility table](https://docs.nvidia.com/deploy/cuda-compatibility/)
 
 ## Layout of the installation
  <pre><code class="language-mermaid">graph LR
