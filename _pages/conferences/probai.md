@@ -22,7 +22,7 @@ recommend it, but be wary - apart from nature there is not too much to see!
 However, all the restaurants were top notch in Trondheim. I would definitely
 recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
-<img src="https://github.com/karkirowle/karkirowle.github.io/blob/master/_pages/conferences/IMG_0309.jpg" width="200"/>
+![](/images/probai_1.jpeg)
 
 sajt 
 ## Lectures I liked the best
