@@ -24,8 +24,8 @@ recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
 
 <center>
-<img src="/images/IMG_0309.jpg" width="600"/>
-<br><i>A bird's eye view of Trondheim*</i>
+<img src="/images/IMG_0309.jpg" width="650"/>
+<br><i>A bird's eye view of Trondheim</i>
 </center>
 
 ## Lectures I liked the most
