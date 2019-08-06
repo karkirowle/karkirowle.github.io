@@ -39,6 +39,7 @@ distributions.
 
 ## What I've learned
 
+
 I think it was a great practical look at Bayesian Machine Learning and
 Probabilistic Graphical models. It was refreshing to have a great review
 of the past fews machine learning literature, and I got confirmed that
