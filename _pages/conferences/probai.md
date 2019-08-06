@@ -55,3 +55,8 @@ was definitely a refreshing experience.
 
 ![](/images/probai_1.jpeg)
 *As always, the best thing of summer schools is the ability to make new connections*
+
+
+
+<img src="/images/IMG_0309.jpg" width="600"/>
+**This project has received funding from the European Union's Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287.**
