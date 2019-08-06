@@ -25,6 +25,9 @@ I will try to collect here all the important ones.
 But this is outright what causes the problem in most installations. Because you don't know what are the possible routes, you
 often go down a difficult route (build from source, works with downgraded versions) or even worse, an impossible route.
 
+TODO: Another compatibility chart
+https://docs.nvidia.com/deploy/cuda-compatibility/
+
 ## Layout of the installation
  <pre><code class="language-mermaid">graph LR
 OS--&gt;GPU
@@ -61,15 +64,28 @@ is useless.
 
 ## Headers
 
-TODO:
+
+Check the headers on Ubuntu using
+
+```
+uname -r
+
+```
+
+```
+sudo apt-get install linux-headers-$(uname -r)
+
+```
+
+
 
 ## Compilers
 
 The standard compiler for Linux distros will be gcc, for Windows you
 typically never want to install only a compiler, rather you want to get
-the Visual Studio Build tools.
+the Visual C++ Studio Build tools.
 
-
+It is important in my experience to get the 2017 version. 
 
 
 ## cuDNN and CUDA failing on Linux
@@ -99,7 +115,7 @@ echo LD_LIBRARY_PATH
 echo CUDA_HOME
 ```
 
-https://stackoverflow.com/questions/41991101/importerror-libcudnn-when-running-a-tensorflow-program
+Related StackOverflow [issue](https://stackoverflow.com/questions/41991101/importerror-libcudnn-when-running-a-tensorflow-program)
 
 ## Tensorflow package installing
 
@@ -135,6 +151,42 @@ But you might need to change the following things accordingly:
 * Python version matters too (cp36/cp27/cp24)
 * linux_x86_64, win_amd_64
 
+## Building from source
+
+In order to build from source, you should really be cautious about
+the version of Bazel that you are using. The command
+
+
+```
+./configure
+
+```
+
+will try to help you in that, and will not let you proceed usually, if
+you are missing something. This is a good place to be superpunctual about
+the versions, because effectively this is the place where everything
+gets linked together.
+
+The build process itself can freeze your computer, because it is using
+a lot of RAM. The TensorFlow guide recommends the local ram resources flag in this
+case, like:
+```
+-bazel build --local_ram_resources=2048 --config=opt --config=cuda //tensorflow/tools/pip_package:build_pip_package
+
+```
+
+However, in older version of Bazel, this was not a separate flag. 
+
+```
+bazel build --config=opt --config=cuda //tensorflow/tools/pip_package:build_pip_package --local_resources=2048,2,1
+
+```
+
+The above command does the job, but it also needs the amount of cores and
+workers to be specified. If you have only a single core, you need to 2
+to 1 in the command above.
+
+
 ## My favourite bugs
 
 ### Forgetting to add CUDA as environment variable
@@ -153,3 +205,8 @@ sudo apt-get purge libvdpau-va-gl1 bumblebee* nvidia*
 # Driver
 sudo apt-get install nvidia-384 nvidia-settings nvidia-prime
 ```
+
+### Windows environment variables
+
+They exist and can be reached from
+TODO:
