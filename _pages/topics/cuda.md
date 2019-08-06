@@ -10,7 +10,7 @@ redirect_from:
 
 ## Intro
 
-I think there is something so interesting about how difficult it is to install Tensorflow, while
+I think there is something so interesting about how difficult it is to install TensorFlow, while
 there is an impressive amount of effort being done to make it work, and make it easier. This guide is
 not a comprehensive guide, but simply is made by myself out of pure interest. I try to point out some philosophical
 things in this guide too, which is meant partly as a criticism of design decisions, common sources of errors.
@@ -42,12 +42,12 @@ cuDNN--&gt;Tensorflow
 
 Thus, I would advise the following. Determine the CUDA compute capability version and work from backwards. 
 
-The key to a good tensorflow installation is also rigour and testing. Every step if your installation can be tested.
+The key to a good TensorFlow installation is also rigour and testing. Every step if your installation can be tested.
 
 * The compiler can be tested usually with ```gcc --version```
 * nvcc can be tested with ```nvcc --version``` and building the deviceQuery file
 * Python can be tested with ```python --version```
-* Tensorflow is the most difficult test, because even if the GPU is detected, it might just randomly fail at all sorts of places. 
+* TensorFlow is the most difficult test, because even if the GPU is detected, it might just randomly fail at all sorts of places. 
 
 In terms of the operating system, Ubuntu will be better supported, but the CUDA part of the
 installation on Windows is a significantly less bumpy journey in my experience.
@@ -220,6 +220,8 @@ sudo apt-get purge libvdpau-va-gl1 bumblebee* nvidia*
 sudo apt-get install nvidia-384 nvidia-settings nvidia-prime
 ```
 
+With certain older TensorFlow versions, [I have also found] (https://github.com/tensorflow/models/issues/5328)
+that multi-gpu training does not work well.
 
 I hope you found some useful tips for yourself, and if there is something
 that is not in the official TensorFlow guide, or you think it is worth to share,
