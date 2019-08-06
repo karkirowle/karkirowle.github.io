@@ -24,8 +24,9 @@ recommend Peppes Pizza if you are into greasy Domino's like Pizza.
 
 
 
-![](/images/IMG_0301.jpg)
-![](/images/IMG_0309.jpg)
+<img src="/images/IMG_0301.jpg" width="200"/>
+
+<img src="/images/IMG_0309.jpg" width="200"/>
 
 
 ## Lectures I liked the best
