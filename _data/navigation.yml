@@ -2,6 +2,7 @@
 main:
   - title: "Interesting links"
     url: /links/
-  - title: "Pathological speech"
-    url: /paper1/
+  - title: "Blog Posts"
+    url: /year-archive/
+
   
