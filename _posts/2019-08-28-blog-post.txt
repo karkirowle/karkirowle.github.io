@@ -1,7 +1,7 @@
 ---
 title: 'A glimpse at Interspeech 2019 papers'
-date: 2019-08-27
-permalink: /posts/2019/08/27/
+date: 2019-08-29
+permalink: /posts/2019/08/29/
 tags:
   - interspeech
 ---
@@ -48,4 +48,6 @@ categorical distributions, so effectively it models the probability and uncertai
 WITHOUT PARALLEL DATA TRAINING"</i>
 </center>
 
-In the papers, the authors proprose the PPGs can be used as a replacement of articulatory features.
+I find that this paper has many good ideas that I would definitely want to try in my research, in oral cancer speech prediction we are also
+interested in keeping the speaker identity, while messing with the qualitative - articulatory - aspects of speech. And pronounciation is a fundamentally
+articulatory process as I see. 
