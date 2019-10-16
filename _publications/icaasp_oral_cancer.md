@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Towards taming oral cancer data in the wild: an explainable machine learning approach"
 collection: publications
 permalink: /publication/icaasp-2019
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'ICAASP 2020'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -12,6 +12,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 This is our supplementary page for the paper: "Towards taming oral cancer data in the wild: an explainable machine learning approach".
 
 Figures:
+
 
 Audio files:
  <audio controls>
@@ -21,4 +22,3 @@ Audio files:
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
