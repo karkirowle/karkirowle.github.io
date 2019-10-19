@@ -16,9 +16,28 @@ Figures:
 
 Audio files:
  <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="original_healthy13.wav" type="audio/wav">
 </audio> 
 
+ <audio controls>
+  <source src="modified_healthy13.wav" type="audio/wav">
+</audio> 
+
+ <audio controls>
+  <source src="modified_th_healthy13.wav" type="audio/wav">
+</audio> 
+
+
+ <audio controls>
+  <source src="original18.wav" type="audio/wav">
+</audio> 
+
+ <audio controls>
+  <source src="modified18.wav" type="audio/wav">
+</audio> 
+
+ <audio controls>
+  <source src="modifed_th_18.wav" type="audio/wav">
+</audio> 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
