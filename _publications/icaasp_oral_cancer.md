@@ -40,7 +40,13 @@ Audio files:
 </td>
     <td>
  <audio controls>
-  <source src="/images/original18.wav" type="audio/wav">
+  <source src="/images/2019_audio/canceroriginal46.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/canceroriginal47.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/canceroriginal49.wav" type="audio/wav">
 </audio> 
 </td>
   </tr>
@@ -48,22 +54,24 @@ Audio files:
     <td>Activation map multiplication</td>
     <td>
  <audio controls>
-  <source src="/images/2019_audio/healthymodified12.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified12.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/healthymodified14.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified14.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/healthymodified21.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified21.wav" type="audio/wav">
 </audio> 
 </td>
     <td>
-
-
-
-
  <audio controls>
-  <source src="/images/modified18.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified46.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/cancermodified47.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/cancermodified49.wav" type="audio/wav">
 </audio> 
 
 </td>
@@ -84,7 +92,13 @@ Audio files:
 </td>
     <td>
  <audio controls>
-  <source src="/images/modified_th18.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified_th46.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_th47.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_th49.wav" type="audio/wav">
 </audio> 
 </td>
   </tr>
@@ -104,8 +118,16 @@ Audio files:
 </td>
     <td>
  <audio controls>
-  <source src="/images/modified_th18.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified_bth46.wav" type="audio/wav">
 </audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_bth47.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_bth49.wav" type="audio/wav">
+</audio> 
+</td>
+</td>
 </td>
   </tr>
 
