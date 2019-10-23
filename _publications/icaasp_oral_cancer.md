@@ -36,7 +36,6 @@ Audio files:
  <audio controls>
   <source src="/images/2019_audio/healthyoriginal21.wav" type="audio/wav">
 </audio> 
-
 </td>
     <td>
  <audio controls>
@@ -73,7 +72,6 @@ Audio files:
  <audio controls>
   <source src="/images/2019_audio/cancermodified49.wav" type="audio/wav">
 </audio> 
-
 </td>
   </tr>
   <tr>
@@ -88,7 +86,6 @@ Audio files:
  <audio controls>
   <source src="/images/2019_audio/healthymodified_th21.wav" type="audio/wav">
 </audio> 
-</td>
 </td>
     <td>
  <audio controls>
@@ -115,19 +112,16 @@ Audio files:
   <source src="/images/2019_audio/healthymodified_bth21.wav" type="audio/wav">
 </audio> 
 </td>
-</td>
     <td>
  <audio controls>
-  <source src="/images/2019_audio/healthymodified_bth46.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified_bth46.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/healthymodified_bth47.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified_bth47.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/healthymodified_bth49.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified_bth49.wav" type="audio/wav">
 </audio> 
-</td>
-</td>
 </td>
   </tr>
 
