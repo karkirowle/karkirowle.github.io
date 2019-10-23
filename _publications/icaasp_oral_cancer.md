@@ -20,24 +20,30 @@ Audio files:
 
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>---</th>
+    <th>Control (health) speech</th>
+    <th>Oral cancer (pathological) speech</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table> 
+    <td>Original</td>
+    <td>
  <audio controls>
   <source src="/images/original_healthy13.wav" type="audio/wav">
 </audio> 
+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Activation map multiplication</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Thresholded activation map multiplication</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table> 
 
  <audio controls>
   <source src="/images/modified_healthy13.wav" type="audio/wav">
