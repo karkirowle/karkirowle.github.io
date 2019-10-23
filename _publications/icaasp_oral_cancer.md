@@ -31,7 +31,11 @@ Audio files:
   <source src="/images/original_healthy13.wav" type="audio/wav">
 </audio> 
 </td>
-    <td>-</td>
+    <td>
+ <audio controls>
+  <source src="/images/original18.wav" type="audio/wav">
+</audio> 
+</td>
   </tr>
   <tr>
     <td>Activation map multiplication</td>
@@ -40,7 +44,13 @@ Audio files:
   <source src="/images/modified_healthy13.wav" type="audio/wav">
 </audio> 
 </td>
-    <td>-</td>
+    <td>
+
+ <audio controls>
+  <source src="/images/modified18.wav" type="audio/wav">
+</audio> 
+
+</td>
   </tr>
   <tr>
     <td>Thresholded activation map multiplication</td>
@@ -49,24 +59,18 @@ Audio files:
   <source src="/images/modified_th_healthy13.wav" type="audio/wav">
 </audio> 
 </td>
-
-    <td>-</td>
+    <td>
+ <audio controls>
+  <source src="/images/modifed_th18.wav" type="audio/wav">
+</audio> 
+</td>
   </tr>
 </table> 
 
 
 
 
- <audio controls>
-  <source src="/images/original18.wav" type="audio/wav">
-</audio> 
 
- <audio controls>
-  <source src="/images/modified18.wav" type="audio/wav">
-</audio> 
 
- <audio controls>
-  <source src="/images/modifed_th18.wav" type="audio/wav">
-</audio> 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
