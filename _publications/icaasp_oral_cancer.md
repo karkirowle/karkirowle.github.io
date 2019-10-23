@@ -35,23 +35,26 @@ Audio files:
   </tr>
   <tr>
     <td>Activation map multiplication</td>
-    <td>-</td>
+    <td>
+ <audio controls>
+  <source src="/images/modified_healthy13.wav" type="audio/wav">
+</audio> 
+</td>
     <td>-</td>
   </tr>
   <tr>
     <td>Thresholded activation map multiplication</td>
-    <td>-</td>
+    <td>
+ <audio controls>
+  <source src="/images/modified_th_healthy13.wav" type="audio/wav">
+</audio> 
+</td>
+
     <td>-</td>
   </tr>
 </table> 
 
- <audio controls>
-  <source src="/images/modified_healthy13.wav" type="audio/wav">
-</audio> 
 
- <audio controls>
-  <source src="/images/modified_th_healthy13.wav" type="audio/wav">
-</audio> 
 
 
  <audio controls>
