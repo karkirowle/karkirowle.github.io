@@ -11,12 +11,8 @@ citation: 'Halpern, van Son, van den Brekel (2020). &quot;Towards taming oral ca
 
 This is our supplementary page for the paper: "Towards taming oral cancer data in the wild: an explainable machine learning approach".
 
-Update
-
-Figures:
-
-
-Audio files:
+In the paper we have presented three methods to explain machine learning decisions with audio. The sound files below are examples of the
+three method:
 
  <table style="width:100%">
   <tr>
@@ -128,7 +124,12 @@ Audio files:
 
 </table> 
 
-Examples with binary thresholding sounds like network is considering buzzing residuals of a recording microphone.
+You can find that the thresholded and binary thresholded functions sound really similar, and creates a very simple
+acoustic signal, close to a simple tone. This is caused by the thresholding tossing away information. The normal
+multiplications reweights and renormalises the spectrum so the intellegibility is often entirely preserved.
+
+Examples with binary thresholding sometimes sounds like network is considering buzzing residuals of a recording microphone.
+Some characteristics of the original prosody is preserved in this case.
 
 
  <audio controls>
