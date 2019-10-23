@@ -28,8 +28,15 @@ Audio files:
     <td>Original</td>
     <td>
  <audio controls>
-  <source src="/images/original_healthy13.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthyoriginal12.wav" type="audio/wav">
 </audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthyoriginal14.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthyoriginal21.wav" type="audio/wav">
+</audio> 
+
 </td>
     <td>
  <audio controls>
@@ -41,10 +48,19 @@ Audio files:
     <td>Activation map multiplication</td>
     <td>
  <audio controls>
-  <source src="/images/modified_healthy13.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified12.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified14.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified21.wav" type="audio/wav">
 </audio> 
 </td>
     <td>
+
+
+
 
  <audio controls>
   <source src="/images/modified18.wav" type="audio/wav">
@@ -56,8 +72,15 @@ Audio files:
     <td>Thresholded activation map multiplication</td>
     <td>
  <audio controls>
-  <source src="/images/modified_th_healthy13.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified_th12.wav" type="audio/wav">
 </audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_th14.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_th21.wav" type="audio/wav">
+</audio> 
+</td>
 </td>
     <td>
  <audio controls>
@@ -65,6 +88,28 @@ Audio files:
 </audio> 
 </td>
   </tr>
+  <tr>
+    <td>Binary thresholded activation map multiplication</td>
+    <td>
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_bth12.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_bth14.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/2019_audio/healthymodified_bth21.wav" type="audio/wav">
+</audio> 
+</td>
+</td>
+    <td>
+ <audio controls>
+  <source src="/images/modified_th18.wav" type="audio/wav">
+</audio> 
+</td>
+  </tr>
+
+
 </table> 
 
 Examples with binary thresholding sounds like network is considering buzzing residuals of a recording microphone.
