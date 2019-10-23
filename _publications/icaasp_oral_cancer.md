@@ -17,6 +17,24 @@ Figures:
 
 
 Audio files:
+
+ <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
  <audio controls>
   <source src="/images/original_healthy13.wav" type="audio/wav">
 </audio> 
@@ -39,7 +57,7 @@ Audio files:
 </audio> 
 
  <audio controls>
-  <source src="/images/modifed_th_18.wav" type="audio/wav">
+  <source src="/images/modifed_th18.wav" type="audio/wav">
 </audio> 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
