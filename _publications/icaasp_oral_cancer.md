@@ -53,13 +53,13 @@ Audio files:
     <td>Activation map multiplication</td>
     <td>
  <audio controls>
-  <source src="/images/2019_audio/cancermodified12.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified12.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/cancermodified14.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified14.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/cancermodified21.wav" type="audio/wav">
+  <source src="/images/2019_audio/healthymodified21.wav" type="audio/wav">
 </audio> 
 </td>
     <td>
@@ -89,13 +89,13 @@ Audio files:
 </td>
     <td>
  <audio controls>
-  <source src="/images/2019_audio/healthymodified_th46.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified_th46.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/healthymodified_th47.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified_th47.wav" type="audio/wav">
 </audio> 
  <audio controls>
-  <source src="/images/2019_audio/healthymodified_th49.wav" type="audio/wav">
+  <source src="/images/2019_audio/cancermodified_th49.wav" type="audio/wav">
 </audio> 
 </td>
   </tr>
