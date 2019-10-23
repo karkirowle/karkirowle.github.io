@@ -11,33 +11,35 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 This is our supplementary page for the paper: "Towards taming oral cancer data in the wild: an explainable machine learning approach".
 
+Update
+
 Figures:
 
 
 Audio files:
  <audio controls>
-  <source src="original_healthy13.wav" type="audio/wav">
+  <source src="/images/original_healthy13.wav" type="audio/wav">
 </audio> 
 
  <audio controls>
-  <source src="modified_healthy13.wav" type="audio/wav">
+  <source src="/images/modified_healthy13.wav" type="audio/wav">
 </audio> 
 
  <audio controls>
-  <source src="modified_th_healthy13.wav" type="audio/wav">
+  <source src="/images/modified_th_healthy13.wav" type="audio/wav">
 </audio> 
 
 
  <audio controls>
-  <source src="original18.wav" type="audio/wav">
+  <source src="/images/original18.wav" type="audio/wav">
 </audio> 
 
  <audio controls>
-  <source src="modified18.wav" type="audio/wav">
+  <source src="/images/modified18.wav" type="audio/wav">
 </audio> 
 
  <audio controls>
-  <source src="modifed_th_18.wav" type="audio/wav">
+  <source src="/images/modifed_th_18.wav" type="audio/wav">
 </audio> 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
