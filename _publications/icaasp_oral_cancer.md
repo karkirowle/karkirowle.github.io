@@ -61,7 +61,7 @@ Audio files:
 </td>
     <td>
  <audio controls>
-  <source src="/images/modifed_th18.wav" type="audio/wav">
+  <source src="/images/modified_th18.wav" type="audio/wav">
 </audio> 
 </td>
   </tr>
