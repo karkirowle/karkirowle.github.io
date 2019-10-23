@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'ICAASP 2020'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Halpern, van Son, van den Brekel (2020). &quot;Towards taming oral cancer data in the wild: an explainable machine learning approach; <i>ICASSP</i>. 1(1).'
 ---
 
 This is our supplementary page for the paper: "Towards taming oral cancer data in the wild: an explainable machine learning approach".
@@ -67,10 +67,17 @@ Audio files:
   </tr>
 </table> 
 
+Examples with binary thresholding sounds like network is considering buzzing residuals of a recording microphone.
+
+
+ <audio controls>
+  <source src="/images/healthymodified_bth4.wav" type="audio/wav">
+</audio> 
+ <audio controls>
+  <source src="/images/healthymodified_bth6.wav" type="audio/wav">
+</audio> 
 
 
 
 
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
