@@ -10,8 +10,8 @@ location: "London, UK"
 
 There are two main AI approaches for synthesising singing (speech):
 
-- Text to speech
-- Voice conversion or style transfer
+- Text to speech (TTS)
+- Voice conversion or style transfer (VC)
 
 The current state-of-the art in TTS is Tacotron-2, which needs 6 hours of data to learn a new voice. It has to be
 good quality, but not neccesarily studio quality: 22050 kHz sampling frequency, mono, 16-bit depth rate. This is probably
@@ -27,9 +27,9 @@ likely to be also lower quality.
 SourceVoice--&gt;SourcePitch
 SourceVoice--&gt;SourceSpectrum
 SourceVoice--&gt;SourceBAP
-SourcePitch--&gt;|Model|TargetPitch
-SourceSpectrum--&gt;TargetSpectrum
-SourceBAP--&gt;TargetBAP
+SourcePitch--&gt;|VC|TargetPitch
+SourceSpectrum--&gt;|VC|TargetSpectrum
+SourceBAP--&gt;|VC|TargetBAP
 TargetPitch--&gt;TargetVoice
 TargetSpectrum--&gt;TargetVoice
 TargetBAP--&gt;TargetVoice
@@ -41,12 +41,12 @@ My proposals are the following:
 
 <center>
  <pre><code class="language-mermaid">graph LR
-Text--&gt;Speech
-Willie--&gt;WilliePitch
-Willie--&gt;WillieRhythm
-Speech--&gt;AISING
-WilliePitch--&gt;AISING
-WillieRhythm--&gt;AISING
+Text--&gt;|Tacotron2|Speech
+Willie--&gt;|Mellotron|WilliePitch
+Willie--&gt;|Mellotron|WillieRhythm
+Speech--&gt;|Mellotron|AISING
+WilliePitch--&gt;|Mellotron|AISING
+WillieRhythm--&gt;|Mellotron|AISING
 </code></pre>
 </center>
 
