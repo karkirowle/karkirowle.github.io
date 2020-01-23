@@ -24,12 +24,14 @@ likely to be also lower quality.
 
 <center>
  <pre><code class="language-mermaid">graph LR
-Source--&gt;SourcePitch
-Source--&gt;SourceSpectrum
-Source--&gt;SourceBAP
+SourceVoice--&gt;SourcePitch:Cool
+SourceVoice--&gt;SourceSpectrum
+SourceVoice--&gt;SourceBAP
 SourcePitch--&gt;TargetPitch
 SourceSpectrum--&gt;TargetSpectrum
 SourceBAP--&gt;TargetBAP
+TargetPitch--&gt;TargetVoice
+TargetSpectrum--&gt;TargetVoice
 TargetBAP--&gt;TargetVoice
 </code></pre>
 </center>
