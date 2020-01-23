@@ -24,7 +24,7 @@ likely to be also lower quality.
 
 <center>
  <pre><code class="language-mermaid">graph LR
-SourceVoice--&gt;SourcePitch:Cool
+SourceVoice--&gt;SourcePitch : Cool
 SourceVoice--&gt;SourceSpectrum
 SourceVoice--&gt;SourceBAP
 SourcePitch--&gt;TargetPitch
@@ -39,6 +39,16 @@ My proposals are the following:
 
 (1) **Mellotron**. We can use Willie's style, but a pre-trained AI singing voice using Mellotron's rhythm transfer. 
 
+<center>
+ <pre><code class="language-mermaid">graph LR
+Text--&gt;Speech
+Willie--&gt;WilliePitch
+Willie--&gt;WillieRhythm
+Speech--&gt;AISING
+WilliePitch--&gt;AISING
+WillieRhythm--&gt;AISING
+</code></pre>
+</center>
 
 
 <table style="width:100%">
