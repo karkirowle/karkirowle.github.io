@@ -27,7 +27,7 @@ likely to be also lower quality.
 SourceVoice--&gt;SourcePitch
 SourceVoice--&gt;SourceSpectrum
 SourceVoice--&gt;SourceBAP
-SourcePitch--&gt;TargetPitch
+SourcePitch--&gt;|Model|TargetPitch
 SourceSpectrum--&gt;TargetSpectrum
 SourceBAP--&gt;TargetBAP
 TargetPitch--&gt;TargetVoice
