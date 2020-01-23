@@ -24,7 +24,7 @@ likely to be also lower quality.
 
 <center>
  <pre><code class="language-mermaid">graph LR
-SourceVoice--&gt;SourcePitch : Cool
+SourceVoice--&gt;SourcePitch
 SourceVoice--&gt;SourceSpectrum
 SourceVoice--&gt;SourceBAP
 SourcePitch--&gt;TargetPitch
