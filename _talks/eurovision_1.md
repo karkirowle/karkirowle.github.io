@@ -22,11 +22,17 @@ someone (perhaps an AI), and they have to sing the same thing as the target sent
 still the freedom of "choosing what to sing" (what lyrics). But note, because the source quality is lower, the target quality will
 likely to be also lower quality.
 
+<center>
  <pre><code class="language-mermaid">graph LR
-Source--&gt;Model
-Model--&gt;Target
+Source--&gt;SourcePitch
+Source--&gt;SourceSpectrum
+Source--&gt;SourceBAP
+SourcePitch--&gt;TargetPitch
+SourceSpectrum--&gt;TargetSpectrum
+SourceBAP--&gt;TargetBAP
+TargetBAP--&gt;TargetVoice
 </code></pre>
-
+</center>
 My proposals are the following:
 
 (1) **Mellotron**. We can use Willie's style, but a pre-trained AI singing voice using Mellotron's rhythm transfer. 
