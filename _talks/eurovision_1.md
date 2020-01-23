@@ -31,7 +31,6 @@ My proposals are the following:
 
 (1) **Mellotron**. We can use Willie's style, but a pre-trained AI singing voice using Mellotron's rhythm transfer. 
 
-In case of the vocal this sounds like that: TODO insert here
 
 
 <table style="width:100%">
