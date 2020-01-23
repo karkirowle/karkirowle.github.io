@@ -23,8 +23,8 @@ still the freedom of "choosing what to sing" (what lyrics). But note, because th
 likely to be also lower quality.
 
  <pre><code class="language-mermaid">graph LR
-Source singing--&gt;Model
-Model--&gt;Target singing
+Source--&gt;Model
+Model--&gt;Target
 </code></pre>
 
 My proposals are the following:
@@ -53,7 +53,7 @@ In case of the vocal this sounds like that: TODO insert here
 </td>
 <td>
  <audio controls>
-  <source src="/images/vc_audio/100034.wav" type="audio/wav">
+  <source src="/images/vc_audio/100034_VC.wav" type="audio/wav">
 </audio> 
 </td>
 </tr>
@@ -71,7 +71,7 @@ In case of the vocal this sounds like that: TODO insert here
 </td>
 <td>
  <audio controls>
-  <source src="/images/vc_audio/100035.wav" type="audio/wav">
+  <source src="/images/vc_audio/100035_VC.wav" type="audio/wav">
 </audio> 
 </td>
 </tr>
@@ -89,7 +89,7 @@ In case of the vocal this sounds like that: TODO insert here
 </td>
 <td>
  <audio controls>
-  <source src="/images/vc_audio/100036.wav" type="audio/wav">
+  <source src="/images/vc_audio/100036_VC.wav" type="audio/wav">
 </audio> 
 </td>
 </tr>
