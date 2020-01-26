@@ -140,7 +140,6 @@ the semantics of the speech.
  <table style="width:100%">
   <tr>
     <th>Class boundary</th>
-    <th>Audio</th>
     <th>Bonafide (2000)</th>
     <th>Bonafide (1000)</th>
     <th>Bonafide (0)</th>
@@ -172,12 +171,408 @@ the semantics of the speech.
 </td>
     <td>
  <audio controls style="width: 50px;">
-  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav" >
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_1000.wav" type="audio/wav" >
 </audio> 
 </td>
     <td>
  <audio controls style="width: 50px;">
-  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav" >
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A08</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A08_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A08_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A08_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A08_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A08_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A08_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A09</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A09_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A09_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A09_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A09_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A09_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A09_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A10</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A10_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A10_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A10_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A10_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A10_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A10_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A11</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A11_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A11_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A11_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A11_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A11_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A11_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A12</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A12_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A12_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A12_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A12_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A12_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A12_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A13</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A13_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A13_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A13_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A13_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A13_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A13_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A14</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A14_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A14_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A14_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A14_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A14_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A14_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A15</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A15_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A15_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A15_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A15_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A15_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A15_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A16</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A16_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A16_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A16_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A16_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A16_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A16_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A17</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A17_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A17_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A17_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A17_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A17_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A17_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A18</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A18_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A18_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A18_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A18_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A18_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A18_add_num_2000.wav" type="audio/wav" >
+</audio> 
+</td>
+  </tr>
+  <tr>
+    <td>Bonafide-A19</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A19_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A19_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_bonafide_A19_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A19_add_num_0.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A19_add_num_1000.wav" type="audio/wav" >
+</audio> 
+</td>
+    <td>
+ <audio controls style="width: 50px;">
+  <source src="/images/mean_audios/mean_audio_spoof_A19_add_num_2000.wav" type="audio/wav" >
 </audio> 
 </td>
   </tr>
