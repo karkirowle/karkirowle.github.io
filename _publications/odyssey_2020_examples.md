@@ -152,32 +152,32 @@ the semantics of the speech.
     <td>Bonafide-A07</td>
     <td>
  <audio controls>
-  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_2000.wav" type="audio/wav">
+  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_2000.wav" type="audio/wav" width=50>
 </audio> 
 </td>
     <td>
  <audio controls>
-  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_1000.wav" type="audio/wav">
+  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_1000.wav" type="audio/wav" width=50>
 </audio> 
 </td>
     <td>
  <audio controls>
-  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_0.wav" type="audio/wav">
+  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_0.wav" type="audio/wav" width=50>
 </audio> 
 </td>
     <td>
  <audio controls>
-  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav">
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav" width=50>
 </audio> 
 </td>
     <td>
  <audio controls>
-  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav">
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav" width=50>
 </audio> 
 </td>
     <td>
  <audio controls>
-  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav">
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav" width=50>
 </audio> 
 </td>
   </tr>
