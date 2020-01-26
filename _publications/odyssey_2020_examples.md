@@ -134,6 +134,54 @@ These are the GradCAM based explainable audio samples:
   </tr>
 </table> 
 
+In these audio examples, we are exploiting a cocktail party effect to encourage focus on the acoustics, rather than
+the semantics of the speech.
+
+ <table style="width:100%">
+  <tr>
+    <th>Class boundary</th>
+    <th>Audio</th>
+    <th>Bonafide (2000)</th>
+    <th>Bonafide (1000)</th>
+    <th>Bonafide (0)</th>
+    <th>Spoof (0)</th>
+    <th>Spoof (1000)</th>
+    <th>Bonafide (2000)</th>
+  </tr>
+  <tr>
+    <td>Bonafide-A07</td>
+    <td>
+ <audio controls>
+  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_2000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_1000.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_0.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="/images/mean_audios/mean_audio_spoof_A07_add_num_0.wav" type="audio/wav">
+</audio> 
+</td>
+  </tr>
+</table> 
 
 
 
