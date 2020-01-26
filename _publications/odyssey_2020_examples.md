@@ -151,7 +151,7 @@ the semantics of the speech.
   <tr>
     <td>Bonafide-A07</td>
     <td>
- <audio controls style="width: 200 px;">
+ <audio controls style="width: 50px;">
   <source src="/images/mean_audios/mean_audio_bonafide_A07_add_num_2000.wav" type="audio/wav">
 </audio> 
 </td>
