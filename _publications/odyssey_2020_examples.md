@@ -169,7 +169,7 @@ For each spoof type, we collect the
 100 closest files to each side of the CM decision boundary (i.e.
 bonafide and spoof),and we call this "close". In order to let the listener
 experiment with the effects of the scores, we also provided two other categories, Bonafide/Spoof (Medium) and Bonafide/Spoof (Far).
-The formar contains the average of hundred (100) examples, thousand (1000) utterances away from the boundary. Similarly, the latter contains the
+The former contains the average of hundred (100) examples, thousand (1000) utterances away from the boundary. Similarly, the latter contains the
 average of hundred (100) examples, but two thousand (2000) utterances away from the boundary.
 
 For example, in A18, you can observe a very particular type of noise more agressively present as you proceed from Spoof (Close) to Spoof (Far).
