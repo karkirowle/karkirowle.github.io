@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/odyssey-2020
 excerpt: 'This paper is about analysing a spoofing countermeasure under noisy conditions.'
 date: 2020-01-20
-venue: 'Speaker Odysseyi 2020'
+venue: 'Speaker Odyssey 2020'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Halpern, Kelly, van Son, Alexander (2020). &quot; Analysing an embeddings-based spoofing countermeasure in noise; <i>ODYSSEY 2020</i>. 1(1).'
 ---
@@ -14,7 +14,22 @@ This is our supplementary page for our paper "Residual networks for resisting no
 
 In this paper, we have presented multiple approaches for explainable audio.
 
-These are the GradCAM based explainable audio samples:
+*GradCAM-based examples*
+The approaches below are based on the same principle as explainable machine learning techniques for computer vision applications.
+The GradCAM technique is used to obtain a saliency map for the audio sample,  using the publicly available library keras-vis library.
+The saliency map shows which parts of the CQT-spectrogram are the most
+sensitive to the class activation decision. In other words, this
+shows which parts are the most important.  This saliency map
+can be used to threshold the spectrogram for its salient parts, as
+it is just a ”2D array of importance”.  Finally, the new spectro-
+gram can be resynthesised to generate audio using a Griffin-Lim
+vocoder.
+
+In the below examples you will first hear an original utterance from the evaluation set, then a resynthesised example, and finally
+the explainable audio example. In most examples, you can hear that it is the rhythm of speech that seems to be the most important, as this
+can be clearly identified from most of these audio samples. Categories, like example A12 shows that there is sometic a characteristic noise for
+a particular spoofing category which is learned by our neural network.
+
 
  <table style="width:100%">
   <tr>
@@ -141,12 +156,12 @@ the semantics of the speech.
  <table style="width:100%">
   <tr>
     <th>Class boundary</th>
-    <th>Bonafide (2000)</th>
-    <th>Bonafide (1000)</th>
-    <th>Bonafide (0)</th>
-    <th>Spoof (0)</th>
-    <th>Spoof (1000)</th>
-    <th>Bonafide (2000)</th>
+    <th>Bonafide (Far)</th>
+    <th>Bonafide (Medium)</th>
+    <th>Bonafide (Close)</th>
+    <th>Spoof (Close)</th>
+    <th>Spoof (Medium)</th>
+    <th>Bonafide (Far)</th>
   </tr>
   <tr>
     <td>Bonafide-A07</td>
