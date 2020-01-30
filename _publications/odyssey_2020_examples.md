@@ -150,8 +150,20 @@ a particular spoofing category which is learned by our neural network.
   </tr>
 </table> 
 
-In these audio examples, we are exploiting a cocktail party effect to encourage focus on the acoustics, rather than
-the semantics of the speech.
+
+**Mean audio**
+A  limiting  factor  when  listening  to  individual
+audio samples (to assess naturalness, for example), is that our
+brains inevitably focus on the semantic content instead of any
+acoustic anomalies. By playing back multiple audio samples si-
+multaneously, we can simulate a cocktail party scenario, where
+the  listener  is  forced  to  listen  to  the  acoustics.   In  our  setup,
+we created mean audio samples by grouping individual samples
+based on the CM scores.  For each spoof type, we collect the
+100 closest files to each side of the CM decision boundary (i.e.
+bonafide and spoof) and generate a mean audio sample.
+
+
 
  <table style="width:100%">
   <tr>
