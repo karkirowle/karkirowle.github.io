@@ -1,15 +1,16 @@
 ---
-title: "Analysing an embeddings-based spoofing countermeasure in noise"
+title: "Residual networks for resisting noise: analysis of an embeddings-based
+spoofing countermeasure"
 collection: publications
 permalink: /publication/odyssey-2020
 excerpt: 'This paper is about analysing a spoofing countermeasure under noisy conditions.'
 date: 2020-01-20
-venue: 'ICAASP 2020'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'Speaker Odysseyi 2020'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Halpern, Kelly, van Son, Alexander (2020). &quot; Analysing an embeddings-based spoofing countermeasure in noise; <i>ODYSSEY 2020</i>. 1(1).'
 ---
 
-This is our supplementary page for the paper: "Towards taming oral cancer data in the wild: an explainable machine learning approach".
+This is our supplementary page for our paper "Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure"
 
 In this paper, we have presented multiple approaches for explainable audio.
 
