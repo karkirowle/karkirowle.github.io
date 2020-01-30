@@ -10,11 +10,12 @@ venue: 'Speaker Odyssey 2020'
 citation: 'Halpern, Kelly, van Son, Alexander (2020). &quot; Analysing an embeddings-based spoofing countermeasure in noise; <i>ODYSSEY 2020</i>. 1(1).'
 ---
 
-This is our supplementary page for our paper "Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure"
+**This is our supplementary page for our paper:** "*Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure*"
 
 In this paper, we have presented multiple approaches for explainable audio.
 
 **GradCAM-based examples**
+
 The approaches below are based on the same principle as explainable machine learning techniques for computer vision applications.
 The GradCAM technique is used to obtain a saliency map for the audio sample,  using the publicly available library keras-vis library.
 The saliency map shows which parts of the CQT-spectrogram are the most
