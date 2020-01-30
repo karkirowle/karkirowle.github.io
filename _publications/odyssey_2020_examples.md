@@ -172,8 +172,7 @@ experiment with the effects of the scores, we also provided two other categories
 The formar contains the average of hundred (100) examples, thousand (1000) utterances away from the boundary. Similarly, the latter contains the
 average of hundred (100) examples, but two thousand (2000) utterances away from the boundary.
 
-
-
+For example, in A18, you can observe a very particular type of noise more agressively present as you proceed from Spoof (Close) to Spoof (Far).
 
  <table style="width:100%">
   <tr>
