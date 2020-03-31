@@ -79,6 +79,11 @@ sudo apt-get install linux-headers-$(uname -r)
 ```
 
 
+## NVIDIA-drivers
+
+The official Nvidia drivers are at
+https://www.geforce.com/drivers
+
 
 ## Compilers
 
