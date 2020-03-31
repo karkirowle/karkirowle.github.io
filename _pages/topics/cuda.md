@@ -81,6 +81,22 @@ sudo apt-get install linux-headers-$(uname -r)
 
 ## NVIDIA-drivers
 
+There are various methods to install the NVIDIA driver required. I would say that there was no two time the same method worked for me.
+
+*2020-03-31*: The NVIDIA CUDA official install method with the run file didn't work, what worked is the following:
+
+```
+ubuntu-drivers devices
+```
+
+Then I can get the right apt get version
+
+```
+sudo apt install nvidia-drivers-440
+```
+
+the relevant PPA might need to be added, but I'm not entirely sure about that.
+
 The official Nvidia drivers are at
 https://www.geforce.com/drivers
 
