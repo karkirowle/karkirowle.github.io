@@ -6,7 +6,7 @@ permalink: /publication/odyssey-2020
 excerpt: 'This paper is about analysing a spoofing countermeasure under noisy conditions.'
 date: 2020-01-20
 venue: 'Speaker Odyssey 2020'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#paperurl: 'http://academicpages.github.io/files/Odyssey2020_spoofingResNet_Halpern_et_al.pdf'
 citation: 'Halpern, Kelly, van Son, Alexander (2020). &quot; Analysing an embeddings-based spoofing countermeasure in noise; <i>ODYSSEY 2020</i>. 1(1).'
 ---
 
