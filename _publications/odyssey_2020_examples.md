@@ -6,13 +6,16 @@ permalink: /publication/odyssey-2020
 excerpt: 'This paper is about analysing a spoofing countermeasure under noisy conditions.'
 date: 2020-01-20
 venue: 'Speaker Odyssey 2020'
-#paperurl: 'http://karkirowle.github.io/files/Odyssey2020_spoofingResNet_Halpern_et_al.pdf'
+paperurl: 'http://karkirowle.github.io/files/Odyssey2020_spoofingResNet_Halpern_et_al.pdf'
 citation: 'Halpern, Kelly, van Son, Alexander (2020). &quot; Analysing an embeddings-based spoofing countermeasure in noise; <i>ODYSSEY 2020</i>. 1(1).'
 ---
 
 **This is our supplementary page for our paper:** "*Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure*"
 
-In this paper, we have presented multiple approaches for explainable audio.
+In our paper, we analyse two CQT-based spoofing countermeasures in various realistic noisy conditions. We also explore some explainable audio approaches to offer the human listener insight into the types of information exploited by the network in discriminating spoofed speech from real speech.
+
+Abstract: 
+*In this paper we propose a spoofing countermeasure basedon Constant Q-transform (CQT) features with a ResNet embed-dings  extractor  and  a  Gaussian  Mixture  Model  (GMM)  clas-sifier.   We  present  a  detailed  analysis  of  this  approach  usingthe  Logical  Access  portion  of  the  ASVspoof2019  evaluationdatabase, and demonstrate that it provides complementary in-formation to the baseline evaluation systems.  We additionallyevaluate the CQT-ResNet approach in the presence of varioustypes  of  real  noise,  and  show  that  it  is  more  robust  than  thebaseline systems.  Finally, we explore some explainable audioapproaches to offer the human listener insight into the types ofinformation exploited by the network in discriminating spoofedspeech from real speech.*
 
 **GradCAM-based examples**
 
