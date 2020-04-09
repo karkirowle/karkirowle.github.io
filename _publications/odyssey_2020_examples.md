@@ -25,8 +25,8 @@ The saliency map shows which parts of the CQT-spectrogram are the most
 sensitive to the class activation decision. In other words, this
 shows which parts are the most important.  This saliency map
 can be used to threshold the spectrogram for its salient parts, as
-it is just a ”2D array of importance”.  Finally, the new spectro-
-gram can be resynthesised to generate audio using a Griffin-Lim
+it is just a ”2D array of importance”.  Finally, the new spectrogram
+can be resynthesised to generate audio using a Griffin-Lim
 vocoder.
 
 <img src="/images/saliency.png">
@@ -185,7 +185,7 @@ For example, in A18, you can observe a very particular type of noise more agress
     <th>Bonafide (Close)</th>
     <th>Spoof (Close)</th>
     <th>Spoof (Medium)</th>
-    <th>Bonafide (Far)</th>
+    <th>Spoof (Far)</th>
   </tr>
   <tr>
     <td>Bonafide-A07</td>
