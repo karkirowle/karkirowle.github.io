@@ -33,7 +33,7 @@ vocoder.
 
 In the below examples you will first hear an original utterance from the evaluation set, then a resynthesised example, and finally
 the explainable audio example. In most examples, you can hear that it is the rhythm of speech that seems to be the most important, as this
-can be clearly identified from most of these audio samples. Categories, like example A12 shows that there is sometic a characteristic noise for
+can be clearly identified from most of these audio samples. Categories, like example A12 shows that there is a characteristic noise for
 a particular spoofing category which is learned by our neural network.
 
 
