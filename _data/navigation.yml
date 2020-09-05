@@ -4,5 +4,7 @@ main:
     url: /links/
   - title: "Blog Posts"
     url: /year-archive/
+  - title: "Oral cancer corpus"
+    url: /oral_cancer_corpus/
 
   

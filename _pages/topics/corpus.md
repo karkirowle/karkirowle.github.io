@@ -4,8 +4,8 @@ title: "Oral cancer speech corpus"
 excerpt: "Oral cancer speech corpus"
 author_profile: true
 redirect_from: 
-  - "/oral_cancer_corpus/"
-  - "/oral_cancer_corpus.html"
+  - "/corpus/"
+  - "/corpus.html"
 ---
 
 

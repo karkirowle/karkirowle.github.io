@@ -83,7 +83,7 @@ author:
   bio              : "PhD student in pathological speech synthesis"
   location         : "Amsterdam"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=UI309WEAAAAJ&hl=hu&oi=ao"
   email            : "b.halpern@nki.nl"
   uri              :
   bitbucket        :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://nl.linkedin.com/in/bence-halpern
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://nl.linkedin.com/in/bence-halpern"
+  orcid            : "https://orcid.org/0000-0001-8787-359X"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stats.stackexchange.com/users/171027/boomkin"
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@BenceHalpern"
   vine             :
   weibo            :
   xing             :
