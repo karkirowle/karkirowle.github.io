@@ -48,4 +48,4 @@ We encourage research and educational use of the dataset, but commercial use is 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287. The Department of Head and Neck Oncology and surgery of the Netherlands Cancer Institute receives a research grant from Atos Medical (Horby, Sweden),
 which contributes to the existing infrastructure for quality of life research.
 
-<img src="/images/eu_flag.jpeg"> <img src="/images/logo-tapas.png">
+<img src="/images/eu_flag.jpeg"> <img src="/images/logo-tapas.png" height="86">
