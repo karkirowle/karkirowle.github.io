@@ -38,11 +38,14 @@ Please if you use this dataset, cite either the arXiv version (until the officia
 }
 ```
 
+**Licensing**
+
+The YouTube data is available under fair use. The dataset is available under the [Creative Commons 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+We encourage research and educational use of the dataset, but commercial use is not allowed.
 
 **Funding**
-
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287. The Department of Head and Neck Oncology and surgery of the Netherlands Cancer Institute receives a research grant from Atos Medical (Horby, Sweden),
 which contributes to the existing infrastructure for quality of life research.
 
-<img src="/images/eu_flag.jpeg">
+<img src="/images/eu_flag.jpeg"> <img src="/images/logo-tapas.png">
