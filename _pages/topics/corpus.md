@@ -20,10 +20,10 @@ dataset, and provide links to the publications using it.
 | Name of link     | URL     | For whom? |
 | ------------- |:-------------:| -----:|
 | Official Zenodo Page      | [link](https://zenodo.org/record/3732322#.X1O1WYZS9FM)| contains Kaldi features too for ease of reproduction |
-| Full corpus    | https://drive.google.com/drive/folders/1EwkEIEx4VMPzqR_csrpNX1Ysi9W67J7J?usp=sharing      | for people who are just interested in the data and want to process in their own way |
-| Detector and analysis partition link | ?    | aimed for people who want to improve on the baselines quickly |
-| Detector and analysis code| https://github.com/karkirowle/oral_cancer_analysis    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
-| Detector and analysis paper (arXiV) | https://github.com/karkirowle/oral_cancer_analysis    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
+| Full corpus    | [link](https://drive.google.com/drive/folders/1EwkEIEx4VMPzqR_csrpNX1Ysi9W67J7J?usp=sharing)      | for people who are just interested in the data and want to process in their own way |
+| Detector and analysis partition | [link](https://drive.google.com/drive/folders/19USw1RkUv6u3JjZHjlBLMUyZoBefrv4p?usp=sharing)   | aimed for people who want to improve on the baselines quickly |
+| Detector and analysis code| [link](https://github.com/karkirowle/oral_cancer_analysis)    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
+| Detector and analysis paper (arXiV) | [link](https://arxiv.org/pdf/2007.14205.pdf) |   for people interested in our conclusions regarding oral cancer speech |
 
 Please if you use this dataset, cite either the arXiv version (until the official IS 2020 citation)
 
@@ -45,4 +45,4 @@ Please if you use this dataset, cite either the arXiv version (until the officia
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287. The Department of Head and Neck Oncology and surgery of the Netherlands Cancer Institute receives a research grant from Atos Medical (Horby, Sweden),
 which contributes to the existing infrastructure for quality of life research.
 
-<img src="images/eu_flag.jpeg">
+<img src="/images/eu_flag.jpeg">
