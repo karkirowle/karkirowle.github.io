@@ -9,17 +9,24 @@ redirect_from:
 ---
 
 
+
+
+Synthesitising, understanding or recognision pathological speech are currently big problems. This dataset is aimed to those
+people who want to investigate new avenues of solving this problem, but lack the data to do so. 
+
 This site's purpose is to inform interested people about the changes and recent developments in the oral cancer speech
 dataset, and provide links to the publications using it.
 
-| Tables        | URL     | Comment  |
+| Name of link     | URL     | For whom? |
 | ------------- |:-------------:| -----:|
-| Official Zenodo Page      | https://zenodo.org/record/3732322#.X1O1WYZS9FM| $1600 |
-| Full corpus    | https://drive.google.com/drive/folders/1EwkEIEx4VMPzqR_csrpNX1Ysi9W67J7J?usp=sharing      |   $12 |
-| Detector and analysis partition link | are neat      |    $1 |
-| Detector and analysis code| https://github.com/karkirowle/oral_cancer_analysis    |    $1 |
+| Official Zenodo Page      | [link](https://zenodo.org/record/3732322#.X1O1WYZS9FM)| contains Kaldi features too for ease of reproduction |
+| Full corpus    | https://drive.google.com/drive/folders/1EwkEIEx4VMPzqR_csrpNX1Ysi9W67J7J?usp=sharing      | for people who are just interested in the data and want to process in their own way |
+| Detector and analysis partition link | ?    | aimed for people who want to improve on the baselines quickly |
+| Detector and analysis code| https://github.com/karkirowle/oral_cancer_analysis    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
+| Detector and analysis paper (arXiV) | https://github.com/karkirowle/oral_cancer_analysis    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
 
-Please if you use this dataset, cite either the arXiv version (for now)
+Please if you use this dataset, cite either the arXiv version (until the official IS 2020 citation)
+
 ```bibtex
 @misc{halpern2020detecting,
     title={Detecting and analysing spontaneous oral cancer speech in the wild},
@@ -31,10 +38,11 @@ Please if you use this dataset, cite either the arXiv version (for now)
 }
 ```
 
-or the official Interspeech 2020 citation.
 
 **Funding**
 
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Marie Sklodowska-Curie grant agreement No 766287. The Department of Head and Neck Oncology and surgery of the Netherlands Cancer Institute receives a research grant from Atos Medical (Horby, Sweden),
 which contributes to the existing infrastructure for quality of life research.
+
+<img src="images/eu_flag.jpeg">
