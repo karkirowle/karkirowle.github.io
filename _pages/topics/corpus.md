@@ -24,6 +24,8 @@ dataset, and provide links to the publications using it.
 | Detector and analysis paper (arXiV) | [link](https://arxiv.org/pdf/2007.14205.pdf) |   for people interested in our conclusions regarding oral cancer speech |
 | Metadata for the dataset | [link](https://docs.google.com/spreadsheets/d/1upXS1KeV7MQux-hRqKBo0r4T6x1EUQBw_rUSVjiJQGI/edit?usp=sharing) |   metadata about the speakers in the dataset |
 
+<iframe src="https://drive.google.com/file/d/1X_zpsvnjQIPV75itT0hOKaaH2ih0ICDZ/preview" width="640" height="480"></iframe>
+
 
 
 Please if you use this dataset, cite either the arXiv version (until the official IS 2020 citation)
