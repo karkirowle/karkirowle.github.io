@@ -6,9 +6,23 @@ excerpt: 'This paper is about the rapid develeopment of voice conversion for dys
 date: 2020-10-19
 venue: 'ICAASP 2021'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Halpern, Fritsch, Hermann, van Son, Scharenborg, Magimai.-Doss  <i>ICASSP</i>. 1(1).'
 ---
 
-sdfdfsd
+
+###  Introduction
+Development of pathological speech systems is currently hindered by the lack of standard objective evaluation frameworks, while the need for these systems is pressing.
+In this work, we propose a general framework which allows rapid development of such systems. We develop a dysarthric voice conversion system using this framework. Our evaluation measures show that the developed system reflects intelligibility aspects of the target speech.
+
+### Our proposed conversion scheme
+
+<img src="/images/dysarthric_vc_icassp/Training.png">
+
+### Our proposed evalution system for rapid development
+
+<img src="/images/dysarthric_vc_icassp/Evaluation.png">
+
+### Voice conversion results
 
 
 
