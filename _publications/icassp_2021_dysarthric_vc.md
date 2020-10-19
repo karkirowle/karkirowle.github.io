@@ -19,6 +19,32 @@ sdfdfsd
     <th>Converted speech</th>
     <th>Ground truth</th>
   </tr>
+          <tr>
+    <td>F02</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/4UsgSDRBF1VPjfm/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+
+</td>
+  </tr>
+            <tr>
+    <td>F03</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/T9F2ej0ZhXreaw9/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+
+</td>
+  </tr>
         <tr>
     <td>F04</td>
     <td>
@@ -30,6 +56,54 @@ sdfdfsd
 </td>
     <td>
 
+</td>
+  </tr>
+          <tr>
+    <td>M01</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/WLOZJkH3rjYhKjy/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+</td>
+  </tr>
+            <tr>
+    <td>M04</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/OQ1Rb7FdjHebnze/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+</td>
+  </tr>
+            <tr>
+    <td>M05</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/MbqW7mm5XcI47ih/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+</td>
+  </tr>
+             <tr>
+    <td>M07</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/xx27WrEIgl6dh3Q/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
 </td>
   </tr>
         <tr>
@@ -57,6 +131,42 @@ sdfdfsd
 </td>
     <td>
 
+</td>
+  </tr>
+          <tr>
+    <td>M08</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/N8PzHFiGjJVXvP7/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+</td>
+  </tr>
+      <tr>
+    <td>M09</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/LZF7NQX5kC2Shak/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+</td>
+  </tr>
+        <tr>
+    <td>M10</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/Upgqp1fp15PR4g6/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
 </td>
   </tr>
     <tr>
