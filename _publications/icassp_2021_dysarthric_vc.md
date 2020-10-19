@@ -19,37 +19,61 @@ sdfdfsd
     <th>Converted speech</th>
     <th>Ground truth</th>
   </tr>
-  <tr>
-    <td>M01</td>
+        <tr>
+    <td>F04</td>
     <td>
-
-</td>
-    <td>
-<iframe 
-  frameborder="0" 
-  width="100%"     
-  height="70"
-  src="https://drive.google.com/file/d/1-aIxGZQZfijlnd09dRpThpnf0NZqg3Um/preview?usp=sharing">
-</iframe>
-</td>
-    <td>
-
-</td>
-  </tr>
-  <tr>
-    <td>M04</td>
-    <td>
-
 </td>
     <td>
  <audio controls>
-  <source src="https://surfdrive.surf.nl/files/index.php/s/YDudaxPHv16Qrlj/download" type="audio/wav">
+  <source src="https://surfdrive.surf.nl/files/index.php/s/otObdZtOg9go5ij/download" type="audio/wav">
 </audio> 
 </td>
     <td>
 
 </td>
   </tr>
+        <tr>
+    <td>M08</td>
+    <td>
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/N8PzHFiGjJVXvP7/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+
+</td>
+  </tr>
+      <tr>
+    <td>M10</td>
+    <td>
+
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/Upgqp1fp15PR4g6/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+
+</td>
+  </tr>
+    <tr>
+    <td>M14</td>
+    <td>
+
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/FZA06txFIhxVipR/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+
+</td>
+  </tr>
+
 
 
 
