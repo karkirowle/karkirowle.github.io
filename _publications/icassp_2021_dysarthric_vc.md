@@ -8,8 +8,8 @@ venue: 'ICAASP 2021'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
+sdfdfsd
 
-![image](/images/dysarthric_vc_icassp/TrainingConversion.pdf)
 
 
  <table style="width:100%">
