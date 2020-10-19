@@ -5,7 +5,6 @@ permalink: /publication/icassp-2021-dysarthric-vc
 excerpt: 'This paper is about the rapid develeopment of voice conversion for dysarthric speech'
 date: 2020-10-19
 venue: 'ICAASP 2021'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Halpern, Fritsch, Hermann, van Son, Scharenborg, Magimai.-Doss  <i>ICASSP</i>. 1(1).'
 ---
 
@@ -28,7 +27,7 @@ In this work, we propose a general framework which allows rapid development of s
 
  <table style="width:100%">
   <tr>
-    <th>---</th>
+    <th>Speaker</th>
     <th>Original speech</th>
     <th>Converted speech</th>
     <th>Ground truth</th>
