@@ -17,6 +17,9 @@ In this work, we propose a general framework which allows rapid development of s
 
 <img src="/images/dysarthric_vc_icassp/Training.png">
 
+You can find the COLAB demo of our conversion system 
+[by clicking here](https://colab.research.google.com/drive/1PPH_jnxrKvXvUziNNY4fwBjmCcgDO79r?usp=sharing).
+
 ### Our proposed evalution system for rapid development
 
 <img src="/images/dysarthric_vc_icassp/Evaluation.png">
