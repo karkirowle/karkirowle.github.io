@@ -230,7 +230,10 @@ experiments.
 </audio> 
 </td>
     <td>
+     <audio controls>
             <source src="/images/dysarthric_vc_icassp/M11_B1_C1_M5.wav" type="audio/wav">
+            </audio> 
+
 </td>
   </tr>
             <tr>
@@ -248,6 +251,7 @@ experiments.
     <td>
      <audio controls>
                 <source src="/images/dysarthric_vc_icassp/M12_B1_C1_M5.wav" type="audio/wav">
+                </audio> 
 </td>
   </tr>
     <tr>
