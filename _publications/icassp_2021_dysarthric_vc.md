@@ -47,7 +47,9 @@ experiments.
 </audio> 
 </td>
     <td>
-
+     <audio controls>
+  <source src="/images/dysarthric_vc_icassp/F02_B1_C1_M5.wav" type="audio/wav">
+</audio> 
 </td>
   </tr>
             <tr>
@@ -63,7 +65,7 @@ experiments.
 </audio> 
 </td>
     <td>
-
+  <source src="/images/dysarthric_vc_icassp/F03_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
         <tr>
@@ -79,7 +81,7 @@ experiments.
 </audio> 
 </td>
     <td>
-
+  <source src="/images/dysarthric_vc_icassp/F04_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
           <tr>
@@ -95,6 +97,7 @@ experiments.
 </audio> 
 </td>
     <td>
+      <source src="/images/dysarthric_vc_icassp/M01_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
             <tr>
@@ -110,6 +113,7 @@ experiments.
 </audio> 
 </td>
     <td>
+          <source src="/images/dysarthric_vc_icassp/M04_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
             <tr>
@@ -125,6 +129,7 @@ experiments.
 </audio> 
 </td>
     <td>
+    <source src="/images/dysarthric_vc_icassp/M05_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
              <tr>
@@ -140,6 +145,7 @@ experiments.
 </audio> 
 </td>
     <td>
+        <source src="/images/dysarthric_vc_icassp/M07_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
         <tr>
@@ -155,7 +161,7 @@ experiments.
 </audio> 
 </td>
     <td>
-
+        <source src="/images/dysarthric_vc_icassp/M08_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
       <tr>
@@ -171,6 +177,7 @@ experiments.
 </audio> 
 </td>
     <td>
+            <source src="/images/dysarthric_vc_icassp/M09_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
         <tr>
@@ -186,6 +193,7 @@ experiments.
 </audio> 
 </td>
     <td>
+            <source src="/images/dysarthric_vc_icassp/M10_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
           <tr>
@@ -201,6 +209,7 @@ experiments.
 </audio> 
 </td>
     <td>
+            <source src="/images/dysarthric_vc_icassp/M11_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
             <tr>
@@ -216,6 +225,7 @@ experiments.
 </audio> 
 </td>
     <td>
+                <source src="/images/dysarthric_vc_icassp/M12_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
     <tr>
@@ -231,7 +241,7 @@ experiments.
 </audio> 
 </td>
     <td>
-
+            <source src="/images/dysarthric_vc_icassp/M14_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
     <tr>
@@ -247,6 +257,7 @@ experiments.
 </audio> 
 </td>
     <td>
+                <source src="/images/dysarthric_vc_icassp/M16_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
 </table> 
