@@ -24,7 +24,6 @@ experiments.
 
 <img src="/images/dysarthric_vc_icassp/evaluation_system.png">
 
-dfsdfds
 ### Voice conversion results
 
 
@@ -66,7 +65,10 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
   <source src="/images/dysarthric_vc_icassp/F03_B1_C1_M5.wav" type="audio/wav">
+  </audio> 
+
 </td>
   </tr>
         <tr>
@@ -82,7 +84,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
   <source src="/images/dysarthric_vc_icassp/F04_B1_C1_M5.wav" type="audio/wav">
+  </audio> 
 </td>
   </tr>
           <tr>
@@ -98,7 +102,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
       <source src="/images/dysarthric_vc_icassp/M01_B1_C1_M5.wav" type="audio/wav">
+      </audio> 
 </td>
   </tr>
             <tr>
@@ -114,7 +120,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
           <source src="/images/dysarthric_vc_icassp/M04_B1_C1_M5.wav" type="audio/wav">
+          </audio> 
 </td>
   </tr>
             <tr>
@@ -130,7 +138,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
     <source src="/images/dysarthric_vc_icassp/M05_B1_C1_M5.wav" type="audio/wav">
+    </audio> 
 </td>
   </tr>
              <tr>
@@ -146,7 +156,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
         <source src="/images/dysarthric_vc_icassp/M07_B1_C1_M5.wav" type="audio/wav">
+        </audio> 
 </td>
   </tr>
         <tr>
@@ -162,7 +174,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
         <source src="/images/dysarthric_vc_icassp/M08_B1_C1_M5.wav" type="audio/wav">
+        </audio> 
 </td>
   </tr>
       <tr>
@@ -178,7 +192,10 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
             <source src="/images/dysarthric_vc_icassp/M09_B1_C1_M5.wav" type="audio/wav">
+            </audio> 
+
 </td>
   </tr>
         <tr>
@@ -194,7 +211,10 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
             <source src="/images/dysarthric_vc_icassp/M10_B1_C1_M5.wav" type="audio/wav">
+                        </audio> 
+
 </td>
   </tr>
           <tr>
@@ -226,6 +246,7 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
                 <source src="/images/dysarthric_vc_icassp/M12_B1_C1_M5.wav" type="audio/wav">
 </td>
   </tr>
@@ -242,7 +263,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
             <source src="/images/dysarthric_vc_icassp/M14_B1_C1_M5.wav" type="audio/wav">
+            </audio> 
 </td>
   </tr>
     <tr>
@@ -258,7 +281,9 @@ dfsdfds
 </audio> 
 </td>
     <td>
+     <audio controls>
     <source src="/images/dysarthric_vc_icassp/M16_B1_C1_M5.wav" type="audio/wav">
+   </audio>  
 </td>
   </tr>
 </table> 
