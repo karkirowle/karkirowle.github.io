@@ -1,5 +1,5 @@
 ---
-title: "Rapid development of voice conversion for dysarthric speech"
+title: "An objective evaluation framework for pathological speech synthesis"
 collection: publications
 permalink: /publication/icassp-2021-dysarthric-vc
 excerpt: 'This paper is about the rapid develeopment of voice conversion for dysarthric speech'
@@ -8,25 +8,23 @@ venue: 'ICAASP 2021'
 citation: 'Halpern, Fritsch, Hermann, van Son, Scharenborg, Magimai.-Doss  <i>ICASSP</i>. 1(1).'
 ---
 
-
 ###  Introduction
-Development of pathological speech systems is currently hindered by the lack of standard objective evaluation frameworks, while the need for these systems is pressing.
-In this work, we propose a general framework which allows rapid development of such systems. We develop a dysarthric voice conversion system using this framework. Our evaluation measures show that the developed system reflects intelligibility aspects of the target speech.
-
+The need for systems that process pathological speech is increasingly pressing. However, pathological speech processing remains a highly challenging area, as our understanding of speech is largely limited to typical, healthy speech. Furthermore, development of pathological speech systems is currently hindered by the lack of a standardised objective evaluation framework. In this work, (1) we utilise existing detection and analysis techniques to propose a general framework for the evaluation of synthetic speech in a consistent manner, then (2) using our proposed framework, we develop a dysarthric voice conversion system (VC) using CycleGAN-VC, and we show that the developed system is able to exhibit different levels of speech intelligibility.
 ### Our proposed conversion scheme
 
-<img src="/images/dysarthric_vc_icassp/Training.png">
+<img src="/images/dysarthric_vc_icassp/Training3.png">
 
 You can find the COLAB demo of our conversion system 
 [by clicking here](https://colab.research.google.com/drive/1PPH_jnxrKvXvUziNNY4fwBjmCcgDO79r?usp=sharing).
-Please note that the demo uses librosa's phase vocoder instead of Praat's PSOLA.
+Please note that the demo uses librosa's phase vocoder instead of Praat's PSOLA, while the model is
+trained with Praat's PSOLA, so somewhat inferior performance is expected compared to the
+experiments. 
 
 ### Our proposed evalution system for rapid development
 
-<img src="/images/dysarthric_vc_icassp/Evaluation.png">
+<img src="/images/dysarthric_vc_icassp/evaluation_system.png">
 
 ### Voice conversion results
-
 
 
  <table style="width:100%">
@@ -39,6 +37,9 @@ Please note that the demo uses librosa's phase vocoder instead of Praat's PSOLA.
           <tr>
     <td>F02</td>
     <td>
+     <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/4UsgSDRBF1VPjfm/download" type="audio/wav">
+</audio> 
 </td>
     <td>
  <audio controls>
@@ -211,8 +212,18 @@ Please note that the demo uses librosa's phase vocoder instead of Praat's PSOLA.
     <td>
 </td>
   </tr>
-
-
-
-
 </table> 
+
+### Citation
+
+Currently, no official pre-print or print of the work exists. For now, use the following
+citation if you have to reference the work:
+
+```bibtex
+@misc{halpern2021evaluation,
+    title={An objective evaluation framework for pathological speech synthesis},
+    author={Bence Mark Halpern and Julian Fritsch and Enno Hermann and Rob van Son and Odette Scharenborg and Mathew.-Magimai Doss},
+    year={2021},
+    primaryClass={eess.AS}
+}
+```
