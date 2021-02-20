@@ -1,10 +1,10 @@
 ---
 title: "An objective evaluation framework for pathological speech synthesis"
 collection: publications
-permalink: /publication/icassp-2021-dysarthric-vc
+permalink: /publication/ieee-slp-2021-dysarthric-vc
 excerpt: 'This paper is about the rapid develeopment of voice conversion for dysarthric speech'
 date: 2020-10-19
-venue: 'ICAASP 2021'
+venue: 'IEEE Signal Processing Letters'
 citation: 'Halpern, Fritsch, Hermann, van Son, Scharenborg, Magimai.-Doss  <i>ICASSP</i>. 1(1).'
 ---
 
