@@ -35,61 +35,6 @@ experiments.
     <th>Ground truth</th>
   </tr>
           <tr>
-    <td>F02</td>
-    <td>
-     <audio controls>
-  <source src="/images/dysarthric_vc_icassp/CF04_B1_C1_M5.wav" type="audio/wav">
-</audio> 
-</td>
-    <td>
- <audio controls>
-  <source src="https://surfdrive.surf.nl/files/index.php/s/4UsgSDRBF1VPjfm/download" type="audio/wav">
-</audio> 
-</td>
-    <td>
-     <audio controls>
-  <source src="/images/dysarthric_vc_icassp/F02_B1_C1_M5.wav" type="audio/wav">
-</audio> 
-</td>
-  </tr>
-            <tr>
-    <td>F03</td>
-    <td>
-         <audio controls>
-  <source src="/images/dysarthric_vc_icassp/CF04_B1_C1_M5.wav" type="audio/wav">
-</audio> 
-</td>
-    <td>
- <audio controls>
-  <source src="https://surfdrive.surf.nl/files/index.php/s/T9F2ej0ZhXreaw9/download" type="audio/wav">
-</audio> 
-</td>
-    <td>
-     <audio controls>
-  <source src="/images/dysarthric_vc_icassp/F03_B1_C1_M5.wav" type="audio/wav">
-  </audio> 
-
-</td>
-  </tr>
-        <tr>
-    <td>F04</td>
-    <td>
-         <audio controls>
-  <source src="/images/dysarthric_vc_icassp/CF04_B1_C1_M5.wav" type="audio/wav">
-</audio> 
-</td>
-    <td>
- <audio controls>
-  <source src="https://surfdrive.surf.nl/files/index.php/s/otObdZtOg9go5ij/download" type="audio/wav">
-</audio> 
-</td>
-    <td>
-     <audio controls>
-  <source src="/images/dysarthric_vc_icassp/F04_B1_C1_M5.wav" type="audio/wav">
-  </audio> 
-</td>
-  </tr>
-          <tr>
     <td>M01</td>
     <td>
             <audio controls>
@@ -288,6 +233,61 @@ experiments.
      <audio controls>
     <source src="/images/dysarthric_vc_icassp/M16_B1_C1_M5.wav" type="audio/wav">
    </audio>  
+</td>
+  </tr>
+          <tr>
+    <td>F02</td>
+    <td>
+     <audio controls>
+  <source src="/images/dysarthric_vc_icassp/CF04_B1_C1_M5.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/4UsgSDRBF1VPjfm/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+     <audio controls>
+  <source src="/images/dysarthric_vc_icassp/F02_B1_C1_M5.wav" type="audio/wav">
+</audio> 
+</td>
+  </tr>
+            <tr>
+    <td>F03</td>
+    <td>
+         <audio controls>
+  <source src="/images/dysarthric_vc_icassp/CF04_B1_C1_M5.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/T9F2ej0ZhXreaw9/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+     <audio controls>
+  <source src="/images/dysarthric_vc_icassp/F03_B1_C1_M5.wav" type="audio/wav">
+  </audio> 
+
+</td>
+  </tr>
+        <tr>
+    <td>F04</td>
+    <td>
+         <audio controls>
+  <source src="/images/dysarthric_vc_icassp/CF04_B1_C1_M5.wav" type="audio/wav">
+</audio> 
+</td>
+    <td>
+ <audio controls>
+  <source src="https://surfdrive.surf.nl/files/index.php/s/otObdZtOg9go5ij/download" type="audio/wav">
+</audio> 
+</td>
+    <td>
+     <audio controls>
+  <source src="/images/dysarthric_vc_icassp/F04_B1_C1_M5.wav" type="audio/wav">
+  </audio> 
 </td>
   </tr>
 </table> 
