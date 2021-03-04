@@ -23,7 +23,8 @@ dataset, and provide links to the publications using it.
 | Detector and analysis code| [link](https://github.com/karkirowle/oral_cancer_analysis)    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
 | Detector and analysis paper (arXiV) | [link](https://arxiv.org/pdf/2007.14205.pdf) |   for people interested in our conclusions regarding oral cancer speech |
 | Metadata for the dataset | [link](https://docs.google.com/spreadsheets/d/1upXS1KeV7MQux-hRqKBo0r4T6x1EUQBw_rUSVjiJQGI/edit?usp=sharing) |   metadata about the speakers in the dataset |
-| Transcriptions for the dataset (new!) | [link](https://drive.google.com/file/d/1smz-eiYQo-UcS9oz29K1rNCI7O-mLMcm/view?usp=sharing) | for ASR tasks |
+| Transcriptions (new!) | [link](https://drive.google.com/file/d/1smz-eiYQo-UcS9oz29K1rNCI7O-mLMcm/view?usp=sharing) |   for ASR task |
+
 <iframe src="https://drive.google.com/file/d/1X_zpsvnjQIPV75itT0hOKaaH2ih0ICDZ/preview" width="640" height="480"></iframe>
 
 
