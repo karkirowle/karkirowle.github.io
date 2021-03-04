@@ -23,12 +23,26 @@ dataset, and provide links to the publications using it.
 | Detector and analysis code| [link](https://github.com/karkirowle/oral_cancer_analysis)    |   for people who want to reproduce the GMM/LASSO experiments or just understand the methods |
 | Detector and analysis paper (arXiV) | [link](https://arxiv.org/pdf/2007.14205.pdf) |   for people interested in our conclusions regarding oral cancer speech |
 | Metadata for the dataset | [link](https://docs.google.com/spreadsheets/d/1upXS1KeV7MQux-hRqKBo0r4T6x1EUQBw_rUSVjiJQGI/edit?usp=sharing) |   metadata about the speakers in the dataset |
-
+| Transcriptions for the dataset (new!) | [link](https://drive.google.com/file/d/1smz-eiYQo-UcS9oz29K1rNCI7O-mLMcm/view?usp=sharing) | for ASR tasks |
 <iframe src="https://drive.google.com/file/d/1X_zpsvnjQIPV75itT0hOKaaH2ih0ICDZ/preview" width="640" height="480"></iframe>
 
 
 
-Please if you use this dataset, cite either the arXiv version (until the official IS 2020 citation)
+Please if you use this dataset, cite the official Interspeech version:
+
+```bibtex
+@inproceedings{Halpern2020,
+  author={Bence Mark Halpern and Rob van Son and Michiel van den Brekel and Odette Scharenborg},
+  title={{Detecting and Analysing Spontaneous Oral Cancer Speech in the Wild}},
+  year=2020,
+  booktitle={Proc. Interspeech 2020},
+  pages={4826--4830},
+  doi={10.21437/Interspeech.2020-1598},
+  url={http://dx.doi.org/10.21437/Interspeech.2020-1598}
+}
+```
+
+alternatively
 
 ```bibtex
 @misc{halpern2020detecting,
@@ -51,6 +65,8 @@ We encourage research and educational use of the dataset, but commercial use is 
 *2020-09-19*: Uploaded the metadata (protocol) file for the dataset
 
 *2020-09-12*: Uploaded the dataset in a Google Drive version to allow ease of use and access.
+
+*2021-03-04*: Uploaded the transcriptions. Kaldi recipe soon (after Interspeech deadlines :) )
 
 
 **Funding**
