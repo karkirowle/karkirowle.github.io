@@ -8,20 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
-
-This my academic webpage where present materials, research which either I think is interesting or it is made by me.
-
-
-
-
-
-Background
-======
-
-I started my undergraduate studies at Imperial College London in 2014 on the Biomedical Engineering Course. My aim was to learn more about how advanced technology applied to biological scenarios can help people. During my undergraduate studies, I took part of several projects which were highly interdisciplinary including creating an electrical feedback system for visually impaired swimmers or creating a CT filter for 3D reconstruction of skeletons.
-
-My interests shifted to computational biology and artificial intelligence gradually during this course. Unconsciously I’ve chosen courses which were more computational and during all of my project roles I was responsible for programming rather than laboratory work. The great change came during my summer internship at a fashion technology company where I really liked both the challenges and the atmosphere, so since then I'm consciously spending more time with machine learning.
+I'm a machine learning researcher focusing on speech technology, and especially speech technolology
+for pathological speech. I'm doing a PhD at the Netherlands Cancer Institute as an external student of the University of Amsterdam.
+I'm also visiting researcher at TU Delft.
 
 Current work
 ======
@@ -30,5 +19,26 @@ Currently I'm doing my PhD at the Netherlands Cancer Institute as an external st
 
 Publications
 ======
-I’ve worked on improving a system identification algorithm for genetic regulatory networks under the supervision of Dr. Guy-Bart Stan, Dr. Wei Pan and Dr. Zoltan Tuza. It was an excellent opportunity to learn more about Bayesian Linear Regression techniques and it's application to gene regulatory network identification.
-[Thesis](https://github.com/karkirowle/sysidProject/blob/master/VanillaID/thesis/Thesis_Halpern_2018_v3.pdf)
+
+> Pathological voice adaptation with autoencoder-based voice conversion
+> Marc Illa*, Bence Mark Halpern*, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg
+> [Paper](https://arxiv.org/pdf/2106.08427)
+
+> Detecting and analysing spontaneous oral cancer speech in the wild
+> Bence Mark Halpern, Rob van Son, Michiel van den Brekel, Odette Scharenborg
+> [Paper](https://arxiv.org/pdf/2007.14205)
+
+> Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure
+> Bence Mark Halpern, Finnian Kelly, Anil Alexander
+> [Paper](https://oxfordwaveresearch.com/wp-content/uploads/2020/04/Odyssey2020_spoofingResNet_Halpern_et_al.pdf)
+
+> Sparse Bayesian Regressio for Identification of Gene Regulatory Networks 
+> Supervisors: Dr. Zoltan Tuza, Dr. Wei Pan, Dr. Guy-Bart Stan
+> [Master's Thesis](https://github.com/karkirowle/sysidProject/blob/master/VanillaID/thesis/Thesis_Halpern_2018_v3.pdf)
+
+Preprints 
+======
+
+> Quantifying Bias in Automatic Speech Recognition
+> Siyuan Feng, Olya Kudina, Bence Mark Halpern, Odette Scharenborg
+> [Paper](https://arxiv.org/pdf/2103.15122)
