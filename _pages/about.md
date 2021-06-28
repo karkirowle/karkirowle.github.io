@@ -20,25 +20,25 @@ Currently I'm doing my PhD at the Netherlands Cancer Institute as an external st
 Publications
 ======
 
-> Pathological voice adaptation with autoencoder-based voice conversion
-> Marc Illa*, Bence Mark Halpern*, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg
+> Pathological voice adaptation with autoencoder-based voice conversion <br>
+> Marc Illa*, Bence Mark Halpern*, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2106.08427)
 
-> Detecting and analysing spontaneous oral cancer speech in the wild
-> Bence Mark Halpern, Rob van Son, Michiel van den Brekel, Odette Scharenborg
+> Detecting and analysing spontaneous oral cancer speech in the wild <br>
+> Bence Mark Halpern, Rob van Son, Michiel van den Brekel, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2007.14205)
 
-> Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure
-> Bence Mark Halpern, Finnian Kelly, Anil Alexander
+> Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure <br>
+> Bence Mark Halpern, Finnian Kelly, Anil Alexander <br>
 > [Paper](https://oxfordwaveresearch.com/wp-content/uploads/2020/04/Odyssey2020_spoofingResNet_Halpern_et_al.pdf)
 
-> Sparse Bayesian Regressio for Identification of Gene Regulatory Networks 
-> Supervisors: Dr. Zoltan Tuza, Dr. Wei Pan, Dr. Guy-Bart Stan
+> Sparse Bayesian Regressio for Identification of Gene Regulatory Networks <br>
+> Supervisors: Dr. Zoltan Tuza, Dr. Wei Pan, Dr. Guy-Bart Stan <br>
 > [Master's Thesis](https://github.com/karkirowle/sysidProject/blob/master/VanillaID/thesis/Thesis_Halpern_2018_v3.pdf)
 
 Preprints 
 ======
 
-> Quantifying Bias in Automatic Speech Recognition
-> Siyuan Feng, Olya Kudina, Bence Mark Halpern, Odette Scharenborg
+> Quantifying Bias in Automatic Speech Recognition <br>
+> Siyuan Feng, Olya Kudina, Bence Mark Halpern, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2103.15122)
