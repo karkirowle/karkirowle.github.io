@@ -21,7 +21,7 @@ Publications
 ======
 
 > Pathological voice adaptation with autoencoder-based voice conversion <br>
-> Marc Illa*, Bence Mark Halpern*, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg <br>
+> <u>Marc Illa</u>, <u>Bence Mark Halpern*</u>, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2106.08427)
 
 > Detecting and analysing spontaneous oral cancer speech in the wild <br>
