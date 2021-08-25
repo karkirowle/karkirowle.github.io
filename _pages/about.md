@@ -32,9 +32,15 @@ Publications
 > Bence Mark Halpern, Finnian Kelly, Anil Alexander <br>
 > [Paper](https://oxfordwaveresearch.com/wp-content/uploads/2020/04/Odyssey2020_spoofingResNet_Halpern_et_al.pdf)
 
-> Sparse Bayesian Regressio for Identification of Gene Regulatory Networks <br>
+> Sparse Bayesian Regression for Identification of Gene Regulatory Networks <br>
 > Supervisors: Dr. Zoltan Tuza, Dr. Wei Pan, Dr. Guy-Bart Stan <br>
 > [Master's Thesis](https://github.com/karkirowle/sysidProject/blob/master/VanillaID/thesis/Thesis_Halpern_2018_v3.pdf)
+
+Conference abstracts
+====
+> Speaker-informed speech separation and enhancement <br>
+> Bence Mark Halpern, Finnian Kelly, Anil Alexander <br>
+> [PPTX](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pptx) [PDF](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pdf)
 
 Preprints 
 ======
