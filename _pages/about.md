@@ -8,17 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I'm a machine learning researcher focusing on speech technology, and especially speech technolology
-for pathological speech. I'm doing a PhD at the Netherlands Cancer Institute as an external student of the University of Amsterdam.
+I'm a machine learning researcher focusing on speech technology for pathological speech.
+
+I'm doing a PhD at the Netherlands Cancer Institute as an external student of the University of Amsterdam.
 I'm also visiting researcher at TU Delft.
+
+I'm learning Japanese as a hobby. 
 
 Current work
 ======
 
-Currently I'm doing my PhD at the Netherlands Cancer Institute as an external student of the University of Amsterdam. I'm working on pathological speech synthesis in order to help clinical decisions here in the Antoni van Leeuwenhoek hospital for oral cancer patients.
+Currently I'm doing my PhD at the Netherlands Cancer Institute as an external student of the University of Amsterdam. 
+I'm working on pathological speech synthesis in order to help clinical decisions here in the Antoni van Leeuwenhoek hospital for oral cancer patients.
 
 Conference proceedings
 ======
+
+> Towards Identity Preserving Normal to Dysarthric Voice Conversion <br>
+> <u>Wen-Chin Huang</u>, <u>Bence Mark Halpern*</u>, Lester Phillip Violeta, Odette Scharenborg, Tomoki Toda <br>
+> [Paper](https://arxiv.org/pdf/2110.08213.pdf)
 
 > Pathological voice adaptation with autoencoder-based voice conversion <br>
 > <u>Marc Illa</u>, <u>Bence Mark Halpern*</u>, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg <br>
@@ -37,7 +45,7 @@ Conference proceedings
 > Bence Mark Halpern, Finnian Kelly, Anil Alexander <br>
 > [Paper](https://oxfordwaveresearch.com/wp-content/uploads/2020/04/Odyssey2020_spoofingResNet_Halpern_et_al.pdf)
 
-Thesis 
+Master's Thesis 
 =======
 > Sparse Bayesian Regression for Identification of Gene Regulatory Networks <br>
 > Supervisors: Dr. Zoltan Tuza, Dr. Wei Pan, Dr. Guy-Bart Stan <br>
@@ -55,3 +63,15 @@ Preprints
 > Quantifying Bias in Automatic Speech Recognition <br>
 > Siyuan Feng, Olya Kudina, Bence Mark Halpern, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2103.15122)
+> 
+> The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition <br>
+> Luke Prananta, Bence Mark Halpern, Odette Scharenborg <br>
+> [Paper](https://arxiv.org/pdf/2201.04908.pdf)
+> 
+
+Papers where my contribution is acknowledged
+=====
+> Do not waste your electrodes – principles of optimal electrode geometry for spike sorting <br>
+> Róbert Tóth, Albert Miklós Barth, Andor Domonkos, Viktor Varga, Zoltán Somogyvári <br>
+> [Paper](https://iopscience.iop.org/article/10.1088/1741-2552/ac0f49/pdf)
+
