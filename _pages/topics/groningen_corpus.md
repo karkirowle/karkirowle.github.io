@@ -1,5 +1,5 @@
 ---
-permalink: /groningen_corpus/
+permalink: /groningen_corpus_perma/
 title: "UMCG Oral cancer speech corpus"
 excerpt: "UMCG Oral cancer speech corpus"
 author_profile: true
