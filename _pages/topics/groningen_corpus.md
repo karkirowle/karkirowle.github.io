@@ -11,6 +11,8 @@ redirect_from:
 This is the list of the stimuli for NKI-UMCG-RUG oral cancer speech corpus. 
 Note that the Custom sentences are not included in this list.
 
+*Papa en Marloes*
+
 1   Papa en Marloes staan op het station.
 
 2   Ze wachten op de trein.
@@ -26,6 +28,8 @@ Note that the Custom sentences are not included in this list.
 7   Er staan nog veel meer mensen te wachten.
 
 8   Marloes kijkt naar links, in de verte ziet ze de trein al aankomen.
+
+*Man uit Finland* 
 
 9   Er was eens een man uit Finland.
 
@@ -55,6 +59,8 @@ Note that the Custom sentences are not included in this list.
 
 22  Die vond het zakje terug op het spoor.
 
+*Noordenwind en de zon*
+
 23  De noordenwind en de zon waren erover aan het redetwisten wie de sterkste was van hen beiden.
 
 24  Juist op dat moment kwam er een reiziger aan, die gehuld was in een warme mantel.
@@ -70,6 +76,8 @@ Note that the Custom sentences are not included in this list.
 29  Daarna begon de zon krachtig te stralen, en hierop trok de reiziger onmiddellijk zijn mantel uit.
 
 30  De noordenwind moest dus wel bekennen dat de zon van hen beiden de sterkste was.
+
+*Els gaat naar markt*
 
 31  Het is zaterdag.
 
@@ -91,6 +99,8 @@ Note that the Custom sentences are not included in this list.
 
 40  Als het vijf uur is gaat ze terug, zodat ze op tijd weer thuis is.
 
+*Meneer van Dam*
+
 41  Vanmorgen ging meneer van Dam naar de groenteman.
 
 42  Namelijk om een mand mandarijnen te kopen.
@@ -102,6 +112,8 @@ Note that the Custom sentences are not included in this list.
 45  En hij nam een mand mandarijnen mee en ook maar meteen negen bananen en een mooie ananas.
 
 46  Met zijn mand aan zijn arm ging hij toen snel naar huis.
+
+*Jorinde en Joringel*
 
 47  Er was eens een oud kasteel midden in een diep en donker bos.
 
@@ -260,6 +272,8 @@ Note that the Custom sentences are not included in this list.
 124 Daarna veranderde hij ook alle andere vogels weer in meisjes en ging met zijn Jorinde naar huis.
 
 125 En ze leefden nog lang en gelukkig met elkaar.
+
+*Wablieft*
 
 126 Het concert mocht doorgaan, maar zonder licht of decor!
 
