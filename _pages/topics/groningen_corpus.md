@@ -9,7 +9,18 @@ redirect_from:
 ---
 
 This is the list of the stimuli for NKI-UMCG-RUG oral cancer speech corpus. 
-Note that the Custom sentences are not included in this list.
+
+*Custom*
+
+1   Hij heeft tamme shock gezegd.
+
+2   Hij heeft tamme sock gezegd.
+
+3   Hij heeft tamme biet gezegd.
+
+4   Hij heeft tamme boet gezegd.
+
+5   Hij heeft tamme baat gezegd.
 
 *Papa en Marloes*
 
