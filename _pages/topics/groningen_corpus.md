@@ -438,7 +438,7 @@ This is the list of the stimuli for NKI-UMCG-RUG oral cancer speech corpus.
 
 200 Bijvoorbeeld de presidenten van Rusland, China en Syrië.
 
-201 et gaat bijvoorbeeld om kwetsende opmerkingen op Facebook.
+201 Het gaat bijvoorbeeld om kwetsende opmerkingen op Facebook.
 
 
 **Funding**
