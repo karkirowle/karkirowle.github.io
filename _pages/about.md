@@ -25,7 +25,7 @@ Journal papers
 ======
 
 > Low-resource automatic speech recognition and error analyses of oral cancer speech <br>
-> Bence MarkHalpern, SiyuanFeng, Rob van Sonac, Michiel van den Brekel, Odette Scharenborg <br>
+> Bence Mark Halpern, Siyuan Feng, Rob van Son, Michiel van den Brekel, Odette Scharenborg <br>
 > [Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620) <br>
 
 Conference proceedings
@@ -88,8 +88,8 @@ Preprints
 > Siyuan Feng, Olya Kudina, Bence Mark Halpern, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2103.15122)
 
-> Manipulation of oral cancer speech using neural articulatory synthesis
-> Bence Mark Halpern, Teja Rebernik, Thomas Tienkamp, Rob van Son, Michiel van den Brekel, Martijn Wieling, Max Witjes, Odette Scharenborg
+> Manipulation of oral cancer speech using neural articulatory synthesis <br>
+> Bence Mark Halpern, Teja Rebernik, Thomas Tienkamp, Rob van Son, Michiel van den Brekel, Martijn Wieling, Max Witjes, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2203.17072.pdf)
 
 Master's Thesis 
