@@ -24,9 +24,9 @@ I'm working on pathological speech synthesis in order to help clinical decisions
 Journal papers
 ======
 
->
-> 
-> 
+> Low-resource automatic speech recognition and error analyses of oral cancer speech <br>
+> Bence MarkHalpern, SiyuanFeng, Rob van Sonac, Michiel van den Brekel, Odette Scharenborg <br>
+> [Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620) <br>
 
 Conference proceedings
 ======
