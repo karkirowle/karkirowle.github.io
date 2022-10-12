@@ -67,33 +67,33 @@ Conference proceedings
 Conference abstracts
 ====
 > Speaker-informed speech separation and enhancement <br>
-> IAFPA 2021
+> IAFPA 2021 <br>
 > Bence Mark Halpern, Finnian Kelly, Anil Alexander <br>
 > [PPTX](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pptx) [PDF](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pdf)
 
 > Can DeepFake voices steal high-profile identities? <br>
-> IAFPA 2022
+> IAFPA 2022 <br>
 > Bence Mark Halpern, Finnian Kelly <br>
 > [ABSTRACT](https://oxfordwaveresearch.com/wp-content/uploads/2022/07/Abstract-Can-DeepFake-voices-steal-high-profile-identities.pdf) [POSTER](https://oxfordwaveresearch.com/wp-content/uploads/2022/07/Poster-Can-DeepFake-voices-steal-high-profile-identities.pdf)
 
 > T. Tienkamp, T. Rebernik, B. Halpern, R. van Son, S. A. de Viscscher, M. Witjes, and M. Wieling <br>
-> Speech Motor Control 2022
+> Speech Motor Control 2022 <br>
 > Quatifying changes in articulatory working space following oral cancer treatment using electromagnetic articulography <br>
 > ABSTRACT: TBA POSTER: TBA
 
 > T. Rebernik, B. Halpern, T. Tienkamp, R. Jonkers, A. Noiray, R. van Son, M. van den Brekel, M. Witjes, and M. Wieling <br>
-> Speech Motor Control 2022
+> Speech Motor Control 2022 <br>
 > The effect of masking noise on oral cancer speech acoustics and kinematics <br>
 > ABSTRACT: TBA [POSTER](https://karkirowle.github.io/images/tienkamp2022_SMCPoster.pdf)
 
-> Janay S.C. Monen 1, Bence M. Halpern, Teja Rebernik, Thomas Tienkamp, Rob J.J.H. van Son, Vass Verkhodanova, Max J.H. Witjes,and Martijn Wieling
-> Young Female Researchers Workshop 2022
-> Automatic Detection and Severity Estimation for Oral Cancer Speech
+> Janay S.C. Monen 1, Bence M. Halpern, Teja Rebernik, Thomas Tienkamp, Rob J.J.H. van Son, Vass Verkhodanova, Max J.H. Witjes,and Martijn Wieling <br>
+> Young Female Researchers Workshop 2022 <br>
+> Automatic Detection and Severity Estimation for Oral Cancer Speech <br>
 > ABSTRACT: TBA [POSTER](https://karkirowle.github.io/images/monen2022_poster.pdf)
 
-> Kirsten Wildenburg, Bence M. Halpern, Teja Rebernik, Thomas Tienkamp, Rob J.J.H. van Son, Vass Verkhodanova, Max J.H. Witjes,and Martijn Wieling
-> Young Female Researchers Workshop 2022
-> Automatic Speech Recognition and Error Analyses of Dutch Oral Cancer Speech
+> Kirsten Wildenburg, Bence M. Halpern, Teja Rebernik, Thomas Tienkamp, Rob J.J.H. van Son, Vass Verkhodanova, Max J.H. Witjes,and Martijn Wieling <br>
+> Young Female Researchers Workshop 2022 <br>
+> Automatic Speech Recognition and Error Analyses of Dutch Oral Cancer Speech <br>
 > ABSTRACT: TBA [POSTER](https://karkirowle.github.io/images/kirsten2022_YFRW_poster.pdf)
 
 
