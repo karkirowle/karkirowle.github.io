@@ -20,7 +20,7 @@ Journal papers
 ======
 
 > Low-resource automatic speech recognition and error analyses of oral cancer speech <br>
-> Speech Communications
+> Speech Communications <br.
 > Bence Mark Halpern, Siyuan Feng, Rob van Son, Michiel van den Brekel, Odette Scharenborg <br>
 > [Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620) <br>
 
@@ -28,38 +28,38 @@ Conference proceedings
 ======
 
 > The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition <br>
-> Interspeech 2022
+> Interspeech 2022 <br>
 > Luke Prananta, Bence Mark Halpern, Siyuan Feng, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2201.04908.pdf)
 
 > Mitigating bias against non-native accents <br>
-> Interspeech 2022
+> Interspeech 2022 <br>
 > Yuanyuan Zhang, Yixuan Zhang, Tanvina Patel, Bence Mark Halpern, Odette Scharenborg <br>
 > [Paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/zhang22n_interspeech.pdf)
 
 > Towards Identity Preserving Normal to Dysarthric Voice Conversion <br>
-> ICASSP 2022
+> ICASSP 2022 <br>
 > <u>Wen-Chin Huang</u>, <u>Bence Mark Halpern*</u>, Lester Phillip Violeta, Odette Scharenborg, Tomoki Toda <br>
 > [Paper](https://arxiv.org/pdf/2110.08213.pdf)
 
 > Pathological voice adaptation with autoencoder-based voice conversion <br>
-> Speech Synthesis Workshop 2021
+> Speech Synthesis Workshop 2021 <br>
 > <u>Marc Illa</u>, <u>Bence Mark Halpern*</u>, Rob van Son, Laureano-Moro Velazquez, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2106.08427)
 
 > An Objective Evaluation Framework for Pathological Speech Synthesis <br>
-> ITG Speech Communication
+> ITG Speech Communication <br>
 > Bence Mark Halpern, Julian Fritsch, Enno Hermann, Rob van Son, Odette Scharenborg,
 > Mathew.-Magimai Doss <br>
 > [Paper](https://arxiv.org/pdf/2107.00308) 
 
 > Detecting and analysing spontaneous oral cancer speech in the wild <br>
-> Interspeech 2019
+> Interspeech 2019 <br>
 > Bence Mark Halpern, Rob van Son, Michiel van den Brekel, Odette Scharenborg <br>
 > [Paper](https://arxiv.org/pdf/2007.14205)
 
 > Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure <br>
-> Odyssey 2022
+> Speaker Odyssey 2022 <br>
 > Bence Mark Halpern, Finnian Kelly, Anil Alexander <br>
 > [Paper](https://oxfordwaveresearch.com/wp-content/uploads/2020/04/Odyssey2020_spoofingResNet_Halpern_et_al.pdf)
 
