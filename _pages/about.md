@@ -20,7 +20,7 @@ Journal papers
 ======
 
 > Low-resource automatic speech recognition and error analyses of oral cancer speech <br>
-> Speech Communications <br.
+> Speech Communications <br>
 > Bence Mark Halpern, Siyuan Feng, Rob van Son, Michiel van den Brekel, Odette Scharenborg <br>
 > [Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620) <br>
 
