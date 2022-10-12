@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a machine learning researcher focusing on speech technology focusing on pathological speech.
+I'm a machine learning researcher focusing on speech technology for pathological speech.
 I have worked on a broad range of projects including automatic speech recognition, voice conversion, speech enhancement,
 acoustical signal processing and speaker recognition.
 
