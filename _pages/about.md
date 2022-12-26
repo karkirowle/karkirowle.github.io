@@ -24,6 +24,12 @@ Journal papers
 > Bence Mark Halpern, Siyuan Feng, Rob van Son, Michiel van den Brekel, Odette Scharenborg <br>
 > [Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620) <br>
 
+> Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens<br>
+> Journal of Communication Disorders <br>
+> Thomas Tienkamp, Rob van Son, Bence Mark Halpern, Siyuan Feng, Rob van Son, Bence Mark Halpern <br>
+> [Paper](https://www.sciencedirect.com/science/article/pii/S0021992422001101) <br>
+
+
 Conference proceedings
 ======
 
