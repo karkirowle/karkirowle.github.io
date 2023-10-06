@@ -5,34 +5,38 @@ permalink: /publications_list/
 author_profile: true
 ---
 
+* indicate shared first authorship
+
 Journal papers
 ======
 
 1. Feng, S., Halpern, B. M., Kudina, O., & Scharenborg, O. (2023). Towards inclusive automatic speech recognition. Computer Speech & Language, 101567.
+<span style="color:blue"><b>[Paper](Towards inclusive automatic speech recognition)</b></span>
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2103.15122)</b></span>
 2. Halpern, B. M., Feng, S., van Son, R., van den Brekel, M., & Scharenborg, O. (2023). Automatic evaluation of spontaneous oral cancer speech using ratings from naive listeners. Speech Communication, 149, 84-97.
+<span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S016763932300047X)</b></span>
 3. Tienkamp, T. B., van Son, R. J., & Halpern, B. M. (2023). Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens. Journal of Communication Disorders, 101, 106292.
 <span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S0021992422001101)</b></span> 
-4. Halpern, B. M., Feng, S., van Son, R., van den Brekel, M., & Scharenborg, O. (2022). Low-resource automatic speech recognition and error analyses of oral cancer speech. Speech Communication, 141, 14-27.
+4. Halpern, B. M.*, Feng, S.*, van Son, R., van den Brekel, M., & Scharenborg, O. (2022). Low-resource automatic speech recognition and error analyses of oral cancer speech. Speech Communication, 141, 14-27.
 <span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620)</b></span>
    
 Conference proceedings
 ======
 
-1. Tienkamp, T. B., van Son, R. J., & Halpern, B. M. (2023). Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens. Journal of Communication Disorders, 101, 106292.
-2. Prananta, L., Halpern, B. M., Feng, S., & Scharenborg, O. E. (2022). The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH (Vol. 2022).
+
+1. Prananta, L., Halpern, B. M., Feng, S., & Scharenborg, O. E. (2022). The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH (Vol. 2022).
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2201.04908.pdf)</b></span>
-3. Zhang, Y., Zhang, Y., Halpern, B. M., Patel, T., & Scharenborg, O. (2022). Mitigating bias against non-native accents. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH (Vol. 2022, pp. 3168-3172).
+2. Zhang, Y., Zhang, Y., Halpern, B. M., Patel, T., & Scharenborg, O. (2022). Mitigating bias against non-native accents. In Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH (Vol. 2022, pp. 3168-3172).
 <span style="color:blue"><b>[Paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/zhang22n_interspeech.pdf)</b></span>
-4. Huang, W. C.*, Halpern, B. M.,* Violeta, L. P., Scharenborg, O., & Toda, T. (2022, May). Towards identity preserving normal to dysarthric voice conversion. In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6672-6676). IEEE.
+3. Huang, W. C.*, Halpern, B. M.,* Violeta, L. P., Scharenborg, O., & Toda, T. (2022, May). Towards identity preserving normal to dysarthric voice conversion. In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6672-6676). IEEE.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2110.08213.pdf)</b></span>
-5. Illa, M.*, Halpern, B. M.*, van Son, R., Moro-Velázquez, L., & Scharenborg, O. E. (2021). Pathological voice adaptation with autoencoder-based voice conversion. In Proceedings of the 11th ISCA Speech Synthesis Workshop (SSW 11). ISCA.
+4. Illa, M.*, Halpern, B. M.*, van Son, R., Moro-Velázquez, L., & Scharenborg, O. E. (2021). Pathological voice adaptation with autoencoder-based voice conversion. In Proceedings of the 11th ISCA Speech Synthesis Workshop (SSW 11). ISCA.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2106.08427)</b></span>
-6.  Halpern, B. M., van Son, R., van den Brekel, M., & Scharenborg, O. (2020). Detecting and analysing spontaneous oral cancer speech in the wild
+5. Halpern, B. M., van Son, R., van den Brekel, M., & Scharenborg, O. (2020). Detecting and analysing spontaneous oral cancer speech in the wild
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2007.14205)</b></span>
-7.Halpern, B. M., Kelly, F., van Son12, R., & Alexander, A. (2020). Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure.
+6. Halpern, B. M., Kelly, F., van Son12, R., & Alexander, A. (2020). Residual networks for resisting noise: analysis of an embeddings-based spoofing countermeasure.
 <span style="color:blue"><b>[Paper](https://oxfordwaveresearch.com/wp-content/uploads/2020/04/Odyssey2020_spoofingResNet_Halpern_et_al.pdf)</b></span>
-8. Halpern, B.M., Fritsch, J., Hermann, E., van Son, R., Scharenborg, O., Doss, M.M. (2021) An Objective Evaluation Framework for Pathological Speech Synthesis. ITG Speech Communications
+7. Halpern, B.M., Fritsch, J., Hermann, E., van Son, R., Scharenborg, O., Doss, M.M. (2021) An Objective Evaluation Framework for Pathological Speech Synthesis. ITG Speech Communications
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2107.00308)</b></span> 
 
 Conference abstracts
