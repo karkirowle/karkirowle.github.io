@@ -9,7 +9,7 @@ Journal papers
 ======
 
 1. Feng, S., Halpern, B. M., Kudina, O., & Scharenborg, O. (2023). Towards inclusive automatic speech recognition. Computer Speech & Language, 101567.
-[Pre-print](https://arxiv.org/pdf/2103.15122)
+<span style="color:blue">[Pre-print](https://arxiv.org/pdf/2103.15122)</span>
 2. Halpern, B. M., Feng, S., van Son, R., van den Brekel, M., & Scharenborg, O. (2023). Automatic evaluation of spontaneous oral cancer speech using ratings from naive listeners. Speech Communication, 149, 84-97.
 3. Tienkamp, T. B., van Son, R. J., & Halpern, B. M. (2023). Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens. Journal of Communication Disorders, 101, 106292.
 [Paper](https://www.sciencedirect.com/science/article/pii/S0021992422001101) 
