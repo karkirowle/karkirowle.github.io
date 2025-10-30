@@ -55,6 +55,7 @@ All of the below are peer-reviewed publications.
 Conference proceedings (poster)
 ====
 1. Tienkamp, T. (O), Rebernik, T., <u>Halpern, B. M.</u>, van Son, R., Wieling, M., Witjes, M., de Visscher, S., Abur, D. Associations between acoustic, kinematic, self-reported and perceptual based measures of speech in individuals surgically treated for oral cancer: 2024 Motor Speech Conference. San Diego, United States; 2024.
+<span style="color:blue"><b>[Poster](https://karkirowle.github.io/images/posters/associations_poster_madonna.pdf)</b></span>
 2. <u>Halpern, B. M. (O)</u>, Huang, W. C., Violeta, L. P., van Son, R. J. J. H., Toda, T. Improving Severity Preservation of Healthy-to-Pathological Voice Conversion With Global Style Tokens. 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU). 2023. p. 1–7.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2310.02570)</b></span>
 3. Zhang, Y. (O), Zhang, Y., <u>Halpern, B. M.</u>, Patel, T., Scharenborg, O. Mitigating bias against non-native accents. Interspeech 2022. ISCA; 2022. p. 3168–72.
