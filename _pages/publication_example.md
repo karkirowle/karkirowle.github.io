@@ -35,6 +35,7 @@ All of the below are peer-reviewed publications.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2507.21426.pdf)</b></span>
 2. <u>Halpern, B. M. (O)</u>, Toda, T. Reference-free automatic speech severity evaluation using acoustic unit language modelling. Proceedings of the 6th ACM International Conference on Multimedia in Asia Workshops. Auckland New Zealand: ACM; 2024. p. 1–5. (AWARD)
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2510.00639)</b></span>
+<img src="https://karkirowle.github.io/images/award.png" style="width: 100px;">
 3. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Huang, W. C., Violeta, L. P., Rebernik, T., De Visscher, S., Witjes, M., Wieling, M., Abur, D., Toda, T. Quantifying the effect of speech pathology on automatic and human speaker verification. Interspeech 2024. ISCA; 2024. p. 3015–9.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2406.06208)</b></span>
 5. Huang, W. C., <u>Halpern, B. M. (O)</u>, Phillip Violeta, L., Scharenborg, O., Toda, T. Towards Identity Preserving Normal to Dysarthric Voice Conversion. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022. p. 6672–6.
