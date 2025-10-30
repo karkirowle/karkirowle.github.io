@@ -11,11 +11,14 @@ Journal papers
 ======
 
 1. <u>Halpern, B. M.</u>, Tienkamp, T. B., Rebernik, T., Son, R. J. J. H. van, Visscher, S. A. H. J. de, Witjes, M. J. H., Abur, D., Toda, T. XPPG-PCA: Reference-free Automatic Speech Severity Evaluation with Principal Components. IEEE Journal of Selected Topics in Signal Processing. 2025;1–14.
+<span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2510.00657)</b></span>
 2. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., de Visscher, S. A. H. J., Abur, D. Associations Between Acoustic, Kinematic, Self-Reported, and Perceptual Measures of Speech in Individuals Surgically Treated for Oral Cancer. Journal of Speech, Language, and Hearing Research. 2025-7-8;68(7):3069–89.
 3. Feng, S., <u>Halpern, B. M.</u>, Kudina, O., Scharenborg, O. Towards inclusive automatic speech recognition. Computer Speech & Language. 2024-3-1;84:101567. (Pre-print is called Quantifying bias in Automatic Speech Recognition)
 <span style="color:blue"><b>[Paper](Towards inclusive automatic speech recognition)</b></span>
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2103.15122)</b></span>
 4. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, Van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., De Visscher, S. A. H. J., Abur, D. Quantifying Articulatory Working Space in Individuals Surgically Treated for Oral Cancer With Electromagnetic Articulography. J Speech Lang Hear Res. 2024-2-12;67(2):384–99.
+<span style="color:blue"><b>[Paper](Quantifying Changes in Articulatory Working Space in Individuals Surgically Treated for Oral
+Cancer with Electromagnetic Articulography)</b></span>
 5. <u>Halpern, B. M.</u>, Feng, S., van Son, R., van den Brekel, M., Scharenborg, O. Automatic evaluation of spontaneous oral cancer speech using ratings from naive listeners. Speech Communication. 2023-4-1;149:84–97.
 <span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S016763932300047X)</b></span>
 6. Tienkamp, T. B., van Son, R. J. J. H., <u>Halpern, B. M.</u> Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens. Journal of Communication Disorders. 2023-1-1;101:106292.
@@ -29,8 +32,11 @@ Please note that Interspeech there is no difference in prestige, and quality bet
 All of the below are peer-reviewed publications.
 
 1. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Rebernik, T., Van Son, R. J. J. H., Wieling, M., Abur, D., Toda, T. Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer. Interspeech 2025. ISCA; 2025. p. 3733–7.
+<span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2507.21426.pdf)</b></span>
 2. <u>Halpern, B. M. (O)</u>, Toda, T. Reference-free automatic speech severity evaluation using acoustic unit language modelling. Proceedings of the 6th ACM International Conference on Multimedia in Asia Workshops. Auckland New Zealand: ACM; 2024. p. 1–5. (AWARD)
+<span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2510.00639)</b></span>
 3. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Huang, W. C., Violeta, L. P., Rebernik, T., De Visscher, S., Witjes, M., Wieling, M., Abur, D., Toda, T. Quantifying the effect of speech pathology on automatic and human speaker verification. Interspeech 2024. ISCA; 2024. p. 3015–9.
+<span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2406.06208)</b></span>
 5. Huang, W. C., <u>Halpern, B. M. (O)</u>, Phillip Violeta, L., Scharenborg, O., Toda, T. Towards Identity Preserving Normal to Dysarthric Voice Conversion. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022. p. 6672–6.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2110.08213.pdf)</b></span>
 6. <u>Halpern, B. M. (O)</u>, Fritsch, J., Hermann, E., van Son, R., Scharenborg, O., Magimai-Doss, M. An Objective Evaluation Framework for Pathological Speech Synthesis. Speech Communication; 14th ITG Conference. Online: VDE Verlag GmbH; 2021. p. 1–5.
@@ -49,6 +55,7 @@ Conference proceedings (poster)
 ====
 1. Tienkamp, T. (O), Rebernik, T., <u>Halpern, B. M.</u>, van Son, R., Wieling, M., Witjes, M., de Visscher, S., Abur, D. Associations between acoustic, kinematic, self-reported and perceptual based measures of speech in individuals surgically treated for oral cancer: 2024 Motor Speech Conference. San Diego, United States; 2024.
 2. <u>Halpern, B. M. (O)</u>, Huang, W. C., Violeta, L. P., van Son, R. J. J. H., Toda, T. Improving Severity Preservation of Healthy-to-Pathological Voice Conversion With Global Style Tokens. 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU). 2023. p. 1–7.
+<span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2310.02570)</b></span>
 3. Zhang, Y. (O), Zhang, Y., <u>Halpern, B. M.</u>, Patel, T., Scharenborg, O. Mitigating bias against non-native accents. Interspeech 2022. ISCA; 2022. p. 3168–72.
 <span style="color:blue"><b>[Paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/zhang22n_interspeech.pdf)</b></span>
 4. Prananta, L., <u>Halpern, B. M.</u>, Feng, S., Scharenborg, O. (O) The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition. Interspeech 2022. ISCA; 2022. p. 36–40.
@@ -64,7 +71,6 @@ Conference proceedings (poster)
 <span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/tienkamp2022_SMCPoster.pdf)</b></span>
 10. <u>Halpern, B. M. (O)</u> , Kelly, F., Alexander, A. Speaker-informed speech enhancement and separation. IAFPA. Marburg, Germany (Online); 2021.
 <span style="color:blue"><b>[PPTX](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pptx) [PDF](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pdf)</b></span>
-
 
 
 Preprints 
