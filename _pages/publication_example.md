@@ -83,10 +83,15 @@ National (Local) Conferences
 
 Preprints 
 ======
-Halpern, B. M., Rebernik, T., Tienkamp, T., van Son, R., van den Brekel, M., Wieling, M., Witjes, M., & Scharenborg, O. (Date?). Manipulation of oral cancer speech using neural articulatory synthesis.
+Halpern, B. M., Rebernik, T., Tienkamp, T., van Son, R., van den Brekel, M., Wieling, M., Witjes, M., & Scharenborg, O. (2022). Manipulation of oral cancer speech using neural articulatory synthesis.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2203.17072.pdf)</b></span>
 
 
+Grants
+======
+1.	Principal Investigator of “I don’t sound like myself”: Creating voice conversion-based speech technology for
+Healthcare, Nederlandse Organisatie voor Wetenschappelijk Onderzoek (Dutch Research Council
+Organisation), 2024-2026, 150,000 EUR (26,000,000 円)
 
 
 
