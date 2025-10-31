@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Achievements
+title: "Research Achievements"
 permalink: /publications_list/
 author_profile: true
 ---
@@ -73,6 +73,12 @@ Conference proceedings (poster)
 <span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/tienkamp2022_SMCPoster.pdf)</b></span>
 10. <u>Halpern, B. M. (O)</u> , Kelly, F., Alexander, A. Speaker-informed speech enhancement and separation. IAFPA. Marburg, Germany (Online); 2021.
 <span style="color:blue"><b>[PPTX](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pptx) [PDF](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pdf)</b></span>
+
+
+National (Local) Conferences
+======
+1. <u>Halpern, B. M (O)</u> XPPG-PCA: Reference-based speech severity evaluation using principal components. CREST Coaugmentation Symposium. Nagoya, Japan; 2025.
+<span style="color:blue"><b>[SYMPOSIUM WEBPAGE](https://crest-coaugmentation.com)</b></span>
 
 
 Preprints 
