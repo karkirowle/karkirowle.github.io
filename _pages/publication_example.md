@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications list"
+title: "Research Achievements
 permalink: /publications_list/
 author_profile: true
 ---
 
-* indicate shared first authorship
+(*) indicate shared first authorship
 
 Journal papers
 ======
@@ -80,6 +80,10 @@ Preprints
 Halpern, B. M., Rebernik, T., Tienkamp, T., van Son, R., van den Brekel, M., Wieling, M., Witjes, M., & Scharenborg, O. (Date?). Manipulation of oral cancer speech using neural articulatory synthesis.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2203.17072.pdf)</b></span>
 
+
+
+
+
 Doctoral Thesis
 =======
 Halpern, B. M. (2022). Making speech technology accessible for pathological speakers. University of Amsterdam.
@@ -91,6 +95,29 @@ Master's Thesis
 Halpern, B. M. (2018). Sparse Bayesian Regression for Identification of Gene Regulatory Networks. Imperial College London.
 <span style="color:blue"><b>[Master's Thesis](https://github.com/karkirowle/sysidProject/blob/master/VanillaID/thesis/Thesis_Halpern_2018_v3.pdf)</b></span>
 
+Awards
+======
+1. Best Paper Award - SpandLDeteriorate Workshop, ACM Multimedia in Asia (MMAsia).
+<img src="https://karkirowle.github.io/images/award.png" style="width: 100px;">
+2. 3rd place in VPRO AI Song Contest  Singing voice synthesis for our music
+
+Peer-reviewing activities
+======
+- Academic Journals
+    1. Journal of Selected Topics in Signal Processing
+    2. IEEE Transactions on Speech, Audio and Language Processing
+    3. Universal Access in the Information Society
+    4. IEEE Access
+    5. IEEE Signal Processing Letters
+- International Conferences
+    1. ITG Speech Communications
+    2. Interspeech
+    3. Automatic Speech Recognition and Understanding Workshop
+    4. Speech Synthesis Workshop
+    5. Asia Pacific Signal and Information Processing Association (Crash Review)
+    6. IEEE Conference on Acoustics Audio and Signal Processing
+- Grant Panels
+    1. SPI-Fondecyt - Chile Proposal
 
 Papers where my contribution is acknowledged
 =====
