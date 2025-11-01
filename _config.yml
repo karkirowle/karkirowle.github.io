@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bence Halpern"
+  name             : "Bence Mark Halpern"
   avatar           : "profile_2025.jpeg"
   bio              : "Specially Appointed Assistant Professor @ Nagoya University"
-  location         : ""
+  location         : "Nagoya, Japan"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UI309WEAAAAJ&hl=hu&oi=ao"
   email            : "halpernbence@gmail.com"
@@ -109,6 +109,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "ResearchMap"
+      icon: "fas fa-fw fa-address-card"  # A generic "profile" icon
+      url: "https://researchmap.jp/your-username"
 
 
 # Reading Files
