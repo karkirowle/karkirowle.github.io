@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bence Halpern"
+title                    : "Bence Mark Halpern"
 title_separator          : "-"
 name                     : &name "karkirowle"
 description              : &description "personal description"
@@ -100,11 +100,10 @@ author:
   linkedin         : "https://nl.linkedin.com/in/bence-halpern"
   orcid            : "https://orcid.org/0000-0001-8787-359X"
   pinterest        :
+  researchmap      : "https://www.researchmap.jp/halpern"
   soundcloud       :
-  stackoverflow    : "https://stats.stackexchange.com/users/171027/boomkin"
   steam            :
   tumblr           :
-  twitter          : "@BenceHalpern"
   vine             :
   weibo            :
   xing             :
