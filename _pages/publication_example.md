@@ -135,6 +135,12 @@ Academic Society Membership
 ======
 - ISCA
 
+Academic Society Activities
+======
+- Doctoral Consortium Member - Interspeech 2024 Doctoral Consortium Event
+<span style="color:blue"><b>[Event page](https://interspeech2024.org/students/)</b></span>
+
+
 Papers where my contribution is acknowledged
 =====
 1. Tóth, R., Barth, A. M., Domonkos, A., Varga, V., & Somogyvári, Z. (Year?). Do not waste your electrodes – principles of optimal electrode geometry for spike sorting.
