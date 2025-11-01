@@ -13,7 +13,7 @@ Journal papers
 1. <u>Halpern, B. M.</u>, Tienkamp, T. B., Rebernik, T., Son, R. J. J. H. van, Visscher, S. A. H. J. de, Witjes, M. J. H., Abur, D., Toda, T. XPPG-PCA: Reference-free Automatic Speech Severity Evaluation with Principal Components. IEEE Journal of Selected Topics in Signal Processing. 2025;1–14.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2510.00657)</b></span>
 2. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., de Visscher, S. A. H. J., Abur, D. Associations Between Acoustic, Kinematic, Self-Reported, and Perceptual Measures of Speech in Individuals Surgically Treated for Oral Cancer. Journal of Speech, Language, and Hearing Research. 2025-7-8;68(7):3069–89.
-3. Feng, S., <u>Halpern, B. M.</u>, Kudina, O., Scharenborg, O. Towards inclusive automatic speech recognition. Computer Speech & Language. 2024-3-1;84:101567. (Pre-print is called Quantifying bias in Automatic Speech Recognition)
+3. Feng, S.*, <u>Halpern, B. M.*</u>, Kudina, O., Scharenborg, O. Towards inclusive automatic speech recognition. Computer Speech & Language. 2024-3-1;84:101567. (Pre-print is called Quantifying bias in Automatic Speech Recognition)
 <span style="color:blue"><b>[Paper](Towards inclusive automatic speech recognition)</b></span>
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2103.15122)</b></span>
 4. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, Van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., De Visscher, S. A. H. J., Abur, D. Quantifying Articulatory Working Space in Individuals Surgically Treated for Oral Cancer With Electromagnetic Articulography. J Speech Lang Hear Res. 2024-2-12;67(2):384–99.
@@ -38,12 +38,12 @@ All of the below are peer-reviewed publications.
 <img src="https://karkirowle.github.io/images/award.png" style="width: 100px;">
 3. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Huang, W. C., Violeta, L. P., Rebernik, T., De Visscher, S., Witjes, M., Wieling, M., Abur, D., Toda, T. Quantifying the effect of speech pathology on automatic and human speaker verification. Interspeech 2024. ISCA; 2024. p. 3015–9.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2406.06208)</b></span>
-5. Huang, W. C., <u>Halpern, B. M. (O)</u>, Phillip Violeta, L., Scharenborg, O., Toda, T. Towards Identity Preserving Normal to Dysarthric Voice Conversion. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022. p. 6672–6.
+5. Huang, W. C.* (O), <u>Halpern, B. M. (O)*</u>, Phillip Violeta, L., Scharenborg, O., Toda, T. Towards Identity Preserving Normal to Dysarthric Voice Conversion. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022. p. 6672–6.  (Hybrid conference, virtual oral and physical oral was done by separate person)
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2110.08213.pdf)</b></span>
 6. <u>Halpern, B. M. (O)</u>, Fritsch, J., Hermann, E., van Son, R., Scharenborg, O., Magimai-Doss, M. An Objective Evaluation Framework for Pathological Speech Synthesis. Speech Communication; 14th ITG Conference. Online: VDE Verlag GmbH; 2021. p. 1–5.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2107.00308)</b></span> 
 
-7. Illa, M., <u>Halpern, B. M. (O)</u>, Son, R. V., Moro-Velazquez, L., Scharenborg, O. Pathological voice adaptation with autoencoder-based voice conversion. 11th ISCA Speech Synthesis Workshop (SSW 11). ISCA; 2021. p. 19–24.
+7. Illa, M.*, <u>Halpern, B. M. (O)*</u>, Son, R. V., Moro-Velazquez, L., Scharenborg, O. Pathological voice adaptation with autoencoder-based voice conversion. 11th ISCA Speech Synthesis Workshop (SSW 11). ISCA; 2021. p. 19–24.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2106.08427)</b></span>
 8. <u>Halpern, B. M. (O)</u>, Son, R. V., Brekel, M. V. D., Scharenborg, O. Detecting and Analysing Spontaneous Oral Cancer Speech in the Wild. Interspeech 2020. ISCA; 2020. p. 4826–30.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2007.14205)</b></span>
@@ -111,6 +111,7 @@ Awards
 1. Best Paper Award - SpandLDeteriorate Workshop, ACM Multimedia in Asia (MMAsia).
 <img src="https://karkirowle.github.io/images/award.png" style="width: 100px;">
 2. 3rd place in VPRO AI Song Contest  Singing voice synthesis for our music
+<span style="color:blue"><b>[AI Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html)</b></span>
 
 Peer-reviewing activities
 ======
@@ -129,6 +130,10 @@ Peer-reviewing activities
     6. IEEE Conference on Acoustics Audio and Signal Processing
 - Grant Panels
     1. SPI-Fondecyt - Chile Proposal
+
+Academic Society Membership
+======
+- ISCA
 
 Papers where my contribution is acknowledged
 =====
