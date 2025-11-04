@@ -63,14 +63,14 @@ Conference proceedings (poster)
 4. Prananta, L., <u>Halpern, B. M.</u>, Feng, S., Scharenborg, O. (O) The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition. Interspeech 2022. ISCA; 2022. p. 36–40.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2201.04908.pdf)</b></span>
 5.  Tienkamp, T. (O), Rebernik, T., <u>Halpern, B. M.</u>, Abur, D., van Son, R., de Visscher, S., Witjes, M., Wieling, M. Quantifying changes in articulatory working space following oral cancer treatment: 8th International Conference on Speech Motor Control. Groningen, The Netherlands; 2022. p. 193–4.
+<span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/posters/tienkamp2022_SMCPoster.pdf)</b></span>
 6.  <u>Halpern, B. M.</u>, Kelly, F. (O) Can DeepFake voices steal high-profile identities? IAFPA. Prague, Czech Republic; 2022. p. 80–1.
 <span style="color:blue"><b>[ABSTRACT](https://oxfordwaveresearch.com/wp-content/uploads/2022/07/Abstract-Can-DeepFake-voices-steal-high-profile-identities.pdf) [POSTER](https://oxfordwaveresearch.com/wp-content/uploads/2022/07/Poster-Can-DeepFake-voices-steal-high-profile-identities.pdf)</b></span>
 7. Wildenburg, K. (O), <u>Halpern, B. M.</u>, Rebernik, T., Tienkamp, T., van Son, R. J. J. H., Witjes, M., Wieling, M. Automatic Speech Recognition and Error Analyses of Dutch Oral Cancer Speech. Young Female Researchers Workshop. Incheon, Korea; 2022.
-<span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/kirsten2022_YFRW_poster.pdf)</b></span>
+<span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/posters/kirsten2022_YFRW_poster.pdf)</b></span>
 8. Monen, J. S. C. (O), <u>Halpern, B. M.</u>, Tienkamp, T., Rebernik, T., Van Son, R., Witjes, M. J. H., Wieling, M. Automatic Detection and Severity Estimation for Oral Cancer Speech. Young Female Researchers Workshop. Incheon, Korea; 2022.
-<span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/monen2022_poster.pdf)</b></span>
+<span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/posters/monen2022_poster.pdf)</b></span>
 9. Rebernik, T. (O), <u>Halpern, B. M.</u>, Tienkamp, T. B., Jonkers, R., Noiray, A. The Effect of Masking Noise on Oral Cancer Speech Acoustics and Kinematics. Groningen, The Netherlands; 2022. p. 179–80.
-<span style="color:blue"><b>[POSTER](https://karkirowle.github.io/images/tienkamp2022_SMCPoster.pdf)</b></span>
 10. <u>Halpern, B. M. (O)</u> , Kelly, F., Alexander, A. Speaker-informed speech enhancement and separation. IAFPA. Marburg, Germany (Online); 2021.
 <span style="color:blue"><b>[PPTX](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pptx) [PDF](https://karkirowle.github.io/files/speech_enhancement_iafpa_2021.pdf)</b></span>
 
@@ -111,7 +111,13 @@ Awards
 1. Best Paper Award - SpandLDeteriorate Workshop, ACM Multimedia in Asia (MMAsia).
 <img src="https://karkirowle.github.io/images/award.png" style="width: 100px;">
 2. 3rd place in VPRO AI Song Contest  Singing voice synthesis for our music
-<span style="color:blue"><b>[AI Song Contest](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html)</b></span>
+<span style="color:blue"><b>[AI Song Contest Webpage ](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html)</b></span>
+<span style="color:blue"><b>[Part 1](https://youtu.be/M1TAX_Lk-3g)</b></span>
+<span style="color:blue"><b>[Part 2](https://youtu.be/Bq3TTWGpda0)</b></span>
+<span style="color:blue"><b>[Part 3](https://youtu.be/PTXw3mmv-1s)</b></span>
+<span style="color:blue"><b>[Part 4](https://youtu.be/akeQRsojLeQ)</b></span>
+<span style="color:blue"><b>[Part 5](https://youtu.be/-isjHNWNIdE)</b></span>
+
 
 Peer-reviewing activities
 ======
