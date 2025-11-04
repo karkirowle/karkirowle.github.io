@@ -146,6 +146,17 @@ Academic Society Activities
 - Doctoral Consortium Member - Interspeech 2024 Doctoral Consortium Event
 <span style="color:blue"><b>[Event page](https://interspeech2024.org/students/)</b></span>
 
+Media Presence
+======
+- VPRO Web Series on AI Song Contest (2020)
+<span style="color:blue"><b>[AI Song Contest Webpage ](https://www.vprobroadcast.com/titles/ai-songcontest/teams/the-netherlands-1.html)</b></span>
+<span style="color:blue"><b>[Part 1](https://youtu.be/M1TAX_Lk-3g)</b></span>
+<span style="color:blue"><b>[Part 2](https://youtu.be/Bq3TTWGpda0)</b></span>
+<span style="color:blue"><b>[Part 3](https://youtu.be/PTXw3mmv-1s)</b></span>
+<span style="color:blue"><b>[Part 4](https://youtu.be/akeQRsojLeQ)</b></span>
+<span style="color:blue"><b>[Part 5](https://youtu.be/-isjHNWNIdE)</b></span>
+- Life, the university, and everything under the COVID lockdown (2020)
+<span style="color:blue"><b>[Article](https://www.tudelft.nl/en/eemcs/current/humans-of-eemcs/life-the-university-and-everything-under-the-covid-19-lockdown)</b></span>
 
 Papers where my contribution is acknowledged
 =====
