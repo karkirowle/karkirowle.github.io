@@ -127,6 +127,7 @@ Peer-reviewing activities
     3. Universal Access in the Information Society
     4. IEEE Access
     5. IEEE Signal Processing Letters
+    6. Nature Scientific Data
 - International Conferences
     1. ITG Speech Communications
     2. Interspeech
