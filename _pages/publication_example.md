@@ -9,21 +9,21 @@ author_profile: true
 
 Journal papers
 ======
-
-1. <u>Halpern, B. M.</u>, Tienkamp, T. B., Rebernik, T., Son, R. J. J. H. van, Visscher, S. A. H. J. de, Witjes, M. J. H., Abur, D., Toda, T. XPPG-PCA: Reference-free Automatic Speech Severity Evaluation with Principal Components. IEEE Journal of Selected Topics in Signal Processing. 2025;1–14.
+1. <u>Halpern, B.M.,</u> Huang, W-C., Violeta L.P., Toda, T. Severity-Controllable Pathological Text-to-Speech Synthesis for Clinical Applications.  IEEE Transactions on Neural Systems and Rehabilitation Engineering. 2026;34:573-582
+2. <u>Halpern, B. M.</u>, Tienkamp, T. B., Rebernik, T., Son, R. J. J. H. van, Visscher, S. A. H. J. de, Witjes, M. J. H., Abur, D., Toda, T. XPPG-PCA: Reference-free Automatic Speech Severity Evaluation with Principal Components. IEEE Journal of Selected Topics in Signal Processing. 2025;1–14.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2510.00657)</b></span>
-2. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., de Visscher, S. A. H. J., Abur, D. Associations Between Acoustic, Kinematic, Self-Reported, and Perceptual Measures of Speech in Individuals Surgically Treated for Oral Cancer. Journal of Speech, Language, and Hearing Research. 2025-7-8;68(7):3069–89.
-3. Feng, S.*, <u>Halpern, B. M.*</u>, Kudina, O., Scharenborg, O. Towards inclusive automatic speech recognition. Computer Speech & Language. 2024-3-1;84:101567. (Pre-print is called Quantifying bias in Automatic Speech Recognition)
+3. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., de Visscher, S. A. H. J., Abur, D. Associations Between Acoustic, Kinematic, Self-Reported, and Perceptual Measures of Speech in Individuals Surgically Treated for Oral Cancer. Journal of Speech, Language, and Hearing Research. 2025-7-8;68(7):3069–89.
+4. Feng, S., <u>Halpern, B. M.</u>, Kudina, O., Scharenborg, O. Towards inclusive automatic speech recognition. Computer Speech & Language. 2024-3-1;84:101567. (Pre-print is called Quantifying bias in Automatic Speech Recognition)
 <span style="color:blue"><b>[Paper](Towards inclusive automatic speech recognition)</b></span>
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2103.15122)</b></span>
-4. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, Van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., De Visscher, S. A. H. J., Abur, D. Quantifying Articulatory Working Space in Individuals Surgically Treated for Oral Cancer With Electromagnetic Articulography. J Speech Lang Hear Res. 2024-2-12;67(2):384–99.
+5. Tienkamp, T. B., Rebernik, T., <u>Halpern, B. M.</u>, Van Son, R. J. J. H., Wieling, M., Witjes, M. J. H., De Visscher, S. A. H. J., Abur, D. Quantifying Articulatory Working Space in Individuals Surgically Treated for Oral Cancer With Electromagnetic Articulography. J Speech Lang Hear Res. 2024-2-12;67(2):384–99.
 <span style="color:blue"><b>[Paper](Quantifying Changes in Articulatory Working Space in Individuals Surgically Treated for Oral
 Cancer with Electromagnetic Articulography)</b></span>
-5. <u>Halpern, B. M.</u>, Feng, S., van Son, R., van den Brekel, M., Scharenborg, O. Automatic evaluation of spontaneous oral cancer speech using ratings from naive listeners. Speech Communication. 2023-4-1;149:84–97.
+6. <u>Halpern, B. M.</u>, Feng, S., van Son, R., van den Brekel, M., Scharenborg, O. Automatic evaluation of spontaneous oral cancer speech using ratings from naive listeners. Speech Communication. 2023-4-1;149:84–97.
 <span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S016763932300047X)</b></span>
-6. Tienkamp, T. B., van Son, R. J. J. H., <u>Halpern, B. M.</u> Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens. Journal of Communication Disorders. 2023-1-1;101:106292.
+7. Tienkamp, T. B., van Son, R. J. J. H., <u>Halpern, B. M.</u> Objective speech outcomes after surgical treatment for oral cancer: An acoustic analysis of a spontaneous speech corpus containing 32.850 tokens. Journal of Communication Disorders. 2023-1-1;101:106292.
 <span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S0021992422001101)</b></span> 
-7. <u>Halpern, B. M.*, Feng, S.*</u>, van Son, R., van den Brekel, M., Scharenborg, O. Low-resource automatic speech recognition and error analyses of oral cancer speech. Speech Communication. 2022-6-1;141:14–27.
+8. <u>Halpern, B. M.*, Feng, S.*</u>, van Son, R., van den Brekel, M., Scharenborg, O. Low-resource automatic speech recognition and error analyses of oral cancer speech. Speech Communication. 2022-6-1;141:14–27.
 <span style="color:blue"><b>[Paper](https://www.sciencedirect.com/science/article/pii/S0167639322000620)</b></span>
    
 Conference proceedings (oral)
@@ -40,7 +40,7 @@ All of the below are peer-reviewed publications.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2406.06208)</b></span>
 5. Huang, W. C.* (O), <u>Halpern, B. M. (O)*</u>, Phillip Violeta, L., Scharenborg, O., Toda, T. Towards Identity Preserving Normal to Dysarthric Voice Conversion. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022. p. 6672–6.  (Hybrid conference, virtual oral and physical oral was done by separate person)
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2110.08213.pdf)</b></span>
-6. <u>Halpern, B. M. (O)</u>, Fritsch, J., Hermann, E., van Son, R., Scharenborg, O., Magimai-Doss, M. An Objective Evaluation Framework for Pathological Speech Synthesis. Speech Communication; 14th ITG Conference. Online: VDE Verlag GmbH; 2021. p. 1–5.
+6. <u>Halpern, B. M. (O)</u>, Fritsch, J., Hermann, E., van Son, R., Scharenborg, O., Magimai-Doss, M. An Objective Evaluation Framework for Pathological Speech Synthesis. Speech Communication; 14th ITG Conference. Online: VDE Verlag GmbH; 2021. p. 159–663.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2107.00308)</b></span> 
 
 7. Illa, M.*, <u>Halpern, B. M. (O)*</u>, Son, R. V., Moro-Velazquez, L., Scharenborg, O. Pathological voice adaptation with autoencoder-based voice conversion. 11th ISCA Speech Synthesis Workshop (SSW 11). ISCA; 2021. p. 19–24.
@@ -158,6 +158,13 @@ Media Presence
 <span style="color:blue"><b>[Part 5](https://youtu.be/-isjHNWNIdE)</b></span>
 - Life, the university, and everything under the COVID lockdown (2020)
 <span style="color:blue"><b>[Article](https://www.tudelft.nl/en/eemcs/current/humans-of-eemcs/life-the-university-and-everything-under-the-covid-19-lockdown)</b></span>
+
+Outreach activities
+======
+1. ASRU 2025 Mentoring Event - Mentor - 2025.12.07 - Honolulu, US 
+2. AKG Career Orientering Event - Presenter - 2025.12 - Budapest, Hungary (Remote)
+3. Speech Synthesis Presentation Kutatok Ejszakaja - Presenter - 2023? - Budapest, Hungary
+
 
 Papers where my contribution is acknowledged
 =====
