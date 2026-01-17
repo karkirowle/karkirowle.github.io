@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Teaching Experience"
 collection: teaching
 permalink: /teaching/
