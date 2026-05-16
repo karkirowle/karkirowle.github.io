@@ -147,7 +147,7 @@ Academic Society Membership
 Academic Society Activities
 ======
 - Technical Program Committee Member - Young Female* Researchers in Speech Workshop (YFRSW) 2026
-<span style="color:blue"><b>[Event page]https://sites.google.com/view/yfrsw-2026/home?authuser=0)</b></span>
+<span style="color:blue"><b>[Event page](https://sites.google.com/view/yfrsw-2026/home?authuser=0)</b></span>
 - Doctoral Consortium Member - Interspeech 2024 Doctoral Consortium Event
 <span style="color:blue"><b>[Event page](https://interspeech2024.org/students/)</b></span>
 
