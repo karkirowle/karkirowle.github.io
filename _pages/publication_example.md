@@ -56,7 +56,7 @@ All of the below are peer-reviewed publications.
 
 Conference proceedings (poster)
 ====
-1. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Abur, D., Toda, T. Prototype App for Automatic Speech Intelligibility Estimation. 2026 ASHA Convention (American Speech-Language-Hearing Association). Indianapolis, United States; 2026.
+1. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Abur, D., Toda, T. Prototype App for Automatic Speech Intelligibility Estimation. 2026 ASHA Convention (American Speech-Language-Hearing Association). Indianapolis, United States; 2026. (To be presented)
 <span style="color:blue"><b>[ABSTRACT](https://karkirowle.github.io/files/halpern2026_asha_abstract.pdf)</b></span>
 2. Tienkamp, T. (O), Rebernik, T., <u>Halpern, B. M.</u>, van Son, R., Wieling, M., Witjes, M., de Visscher, S., Abur, D. Associations between acoustic, kinematic, self-reported and perceptual based measures of speech in individuals surgically treated for oral cancer: 2024 Motor Speech Conference. San Diego, United States; 2024.
 <span style="color:blue"><b>[Poster](https://karkirowle.github.io/images/posters/associations_poster_madonna.pdf)</b></span>
@@ -81,11 +81,10 @@ Conference proceedings (poster)
 
 National (Local) Conferences
 ======
-1. <u>Halpern, B. M (O)</u> XPPG-PCA: Reference-based speech severity evaluation using principal components. CREST Coaugmentation Symposium. Nagoya, Japan; 2025.
-<span style="color:blue"><b>[SYMPOSIUM WEBPAGE](https://crest-coaugmentation.com)</b></span>
-2. <u>Halpern, B. M. (O)</u>, Toda, T. 発話障害者の自発音声を対象とした非参照型明瞭度予測. 日本音響学会秋季研究発表会; 2026. p. 1173–4.
+1. <u>Halpern, B. M. (O)</u>, Toda, T. 発話障害者の自発音声を対象とした非参照型明瞭度予測. 日本音響学会秋季研究発表会; 2026. p. 1173–4.
 <span style="color:blue"><b>[PDF](https://karkirowle.github.io/files/halpern2026_asj_autumn.pdf)</b></span>
-
+2. <u>Halpern, B. M (O)</u> XPPG-PCA: Reference-based speech severity evaluation using principal components. CREST Coaugmentation Symposium. Nagoya, Japan; 2025.
+<span style="color:blue"><b>[SYMPOSIUM WEBPAGE](https://crest-coaugmentation.com)</b></span>
 
 Preprints 
 ======
