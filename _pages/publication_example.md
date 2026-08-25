@@ -31,12 +31,14 @@ Conference proceedings (oral)
 Please note that Interspeech there is no difference in prestige, and quality between oral and poster presentations, however I separate it as this is often asked for.
 All of the below are peer-reviewed publications.
 
-1. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Rebernik, T., Van Son, R. J. J. H., Wieling, M., Abur, D., Toda, T. Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer. Interspeech 2025. ISCA; 2025. p. 3733–7.
+1. Folkertsma, H. (O), Tienkamp, T., de Visscher, S., Witjes, M., van Son, R., Guo, J., <u>Halpern, B. M.</u> Improving Automatic Speech Recognition for Speakers Treated for Oral Cancer using Data Augmentation and LLM Error Correction. 2026 48th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). Toronto, Canada; 2026. p. 627–31.
+<span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2605.15854)</b></span>
+2. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Rebernik, T., Van Son, R. J. J. H., Wieling, M., Abur, D., Toda, T. Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer. Interspeech 2025. ISCA; 2025. p. 3733–7.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2507.21426.pdf)</b></span>
-2. <u>Halpern, B. M. (O)</u>, Toda, T. Reference-free automatic speech severity evaluation using acoustic unit language modelling. Proceedings of the 6th ACM International Conference on Multimedia in Asia Workshops. Auckland New Zealand: ACM; 2024. p. 1–5. (AWARD)
+3. <u>Halpern, B. M. (O)</u>, Toda, T. Reference-free automatic speech severity evaluation using acoustic unit language modelling. Proceedings of the 6th ACM International Conference on Multimedia in Asia Workshops. Auckland New Zealand: ACM; 2024. p. 1–5. (AWARD)
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2510.00639)</b></span>
 <img src="https://karkirowle.github.io/images/award.png" style="width: 100px;">
-3. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Huang, W. C., Violeta, L. P., Rebernik, T., De Visscher, S., Witjes, M., Wieling, M., Abur, D., Toda, T. Quantifying the effect of speech pathology on automatic and human speaker verification. Interspeech 2024. ISCA; 2024. p. 3015–9.
+4. <u>Halpern, B. M. (O)</u>, Tienkamp, T., Huang, W. C., Violeta, L. P., Rebernik, T., De Visscher, S., Witjes, M., Wieling, M., Abur, D., Toda, T. Quantifying the effect of speech pathology on automatic and human speaker verification. Interspeech 2024. ISCA; 2024. p. 3015–9.
 <span style="color:blue"><b>[Pre-print](https://arxiv.org/pdf/2406.06208)</b></span>
 5. Huang, W. C.* (O), <u>Halpern, B. M. (O)*</u>, Phillip Violeta, L., Scharenborg, O., Toda, T. Towards Identity Preserving Normal to Dysarthric Voice Conversion. ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2022. p. 6672–6.  (Hybrid conference, virtual oral and physical oral was done by separate person)
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2110.08213.pdf)</b></span>
@@ -79,6 +81,7 @@ National (Local) Conferences
 ======
 1. <u>Halpern, B. M (O)</u> XPPG-PCA: Reference-based speech severity evaluation using principal components. CREST Coaugmentation Symposium. Nagoya, Japan; 2025.
 <span style="color:blue"><b>[SYMPOSIUM WEBPAGE](https://crest-coaugmentation.com)</b></span>
+2. <u>Halpern, B. M. (O)</u>, Toda, T. 発話障害者の自発音声を対象とした非参照型明瞭度予測. 日本音響学会秋季研究発表会; 2026. p. 1173–4.
 
 
 Preprints 
@@ -128,6 +131,11 @@ Peer-reviewing activities
     4. IEEE Access
     5. IEEE Signal Processing Letters
     6. Nature Scientific Data
+    7. Expert Systems with Applications
+    8. Speech Communication
+    9. Archives of Physical Medicine and Rehabilitation
+    10. Journal of King Saud University - Computer and Information Sciences
+    11. Data in Brief
 - International Conferences
     1. ITG Speech Communications
     2. Interspeech
@@ -135,6 +143,7 @@ Peer-reviewing activities
     4. Speech Synthesis Workshop
     5. Asia Pacific Signal and Information Processing Association (Crash Review)
     6. IEEE Conference on Acoustics Audio and Signal Processing
+    7. IEEE Spoken Language Technology Workshop (SLT)
 - Grant Panels
     1. SPI-Fondecyt - Chile Proposal
 
