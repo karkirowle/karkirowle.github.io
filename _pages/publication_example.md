@@ -82,10 +82,14 @@ National (Local) Conferences
 1. <u>Halpern, B. M (O)</u> XPPG-PCA: Reference-based speech severity evaluation using principal components. CREST Coaugmentation Symposium. Nagoya, Japan; 2025.
 <span style="color:blue"><b>[SYMPOSIUM WEBPAGE](https://crest-coaugmentation.com)</b></span>
 2. <u>Halpern, B. M. (O)</u>, Toda, T. 発話障害者の自発音声を対象とした非参照型明瞭度予測. 日本音響学会秋季研究発表会; 2026. p. 1173–4.
+<span style="color:blue"><b>[PDF](https://karkirowle.github.io/files/halpern2026_asj_autumn.pdf)</b></span>
 
 
 Preprints 
 ======
+<u>Halpern, B. M.</u>, Tienkamp, T., Abur, D., Toda, T. (2026). Towards explainable reference-free speech intelligibility evaluation of people with pathological speech.
+<span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2602.12723)</b></span>
+
 Halpern, B. M., Rebernik, T., Tienkamp, T., van Son, R., van den Brekel, M., Wieling, M., Witjes, M., & Scharenborg, O. (2022). Manipulation of oral cancer speech using neural articulatory synthesis.
 <span style="color:blue"><b>[Paper](https://arxiv.org/pdf/2203.17072.pdf)</b></span>
 
